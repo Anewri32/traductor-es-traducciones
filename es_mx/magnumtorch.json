@@ -1,0 +1,18 @@
+{
+ "revisadas": {},
+ "ia": {
+  "Amethyst Magnum Torch": "Antorcha magnum de amatista",
+  "Blacklist: %s": "Lista negra: %s",
+  "Diamond Magnum Torch": "Antorcha magnum de diamante",
+  "Emerald Magnum Torch": "Antorcha magnum de esmeralda",
+  "Hold %s for more information": "Mantén presionado %s para más información",
+  "Horizontal Range: %s": "Rango horizontal: %s",
+  "Magnum Torch": "Antorcha magnum",
+  "Mob Type(s): %s": "Tipo(s) de criatura: %s",
+  "Prevents mob spawns in a huge area.": "Evita la aparición de criaturas en un área enorme.",
+  "Shape Type: %s": "Tipo de forma: %s",
+  "Shift": "Shift",
+  "Vertical Range: %s": "Rango vertical: %s",
+  "Whitelist: %s": "Lista blanca: %s"
+ }
+}

@@ -1,0 +1,15 @@
+{
+ "revisadas": {},
+ "ia": {
+  "+%s %s Slots": "+%s espacio de %s",
+  "+%s%% %s Slots": "+%s%% espacios de %s",
+  "-%s %s Slots": "-%s espacio de %s",
+  "-%s%% %s Slots": "-%s%% espacios de %s",
+  "Dropped items in all slots for %s": "Se soltaron los objetos de todos los espacios de %s",
+  "Dropped items in slot %s for %s": "Se soltaron los objetos del espacio %s de %s",
+  "Entity curios inventory": "Inventario de curiosidades de la entidad",
+  "Page %d / %d": "Página %d / %d",
+  "Replaced slot %s for %s with %s": "Se reemplazó el espacio %s de %s con %s",
+  "Toggle Cosmetics": "Alternar cosméticos"
+ }
+}

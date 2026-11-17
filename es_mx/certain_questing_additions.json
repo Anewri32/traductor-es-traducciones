@@ -1,0 +1,28 @@
+{
+ "revisadas": {},
+ "ia": {
+  "Animation on hovering over a quest": "Animación al pasar el cursor sobre una misión",
+  "Animation on hovering over panel buttons": "Animación al pasar el cursor sobre los botones del panel",
+  "Appearance settings": "Ajustes de apariencia",
+  "Auto rotate": "Rotación automática",
+  "Button hover glow opacity (0-255)": "Opacidad del brillo al pasar el cursor sobre botones (0-255)",
+  "Certain Questing Additions": "Certain Questing Additions",
+  "Entity": "Entidad",
+  "Entity ID / spec": "ID de entidad / especificación",
+  "Entity draw order": "Orden de dibujo de la entidad",
+  "Entity opacity": "Opacidad de la entidad",
+  "Entity tint": "Tinte de la entidad",
+  "Look at cursor": "Mirar al cursor",
+  "Player name": "Nombre del Jugador",
+  "Player skin": "Skin del jugador",
+  "Quest hover glow opacity (0-255)": "Opacidad del brillo al pasar el cursor sobre misiones (0-255)",
+  "Quest panel appearance animation": "Animación de aparición del panel de misiones",
+  "Settings for specific animations": "Ajustes para animaciones específicas",
+  "Shader background for quest screen": "Fondo con sombreador para la pantalla de misiones",
+  "Show player name": "Mostrar nombre del jugador",
+  "Smooth animations with easing functions": "Animaciones suaves con funciones de aceleración",
+  "Smooth chapter panel opening animation": "Animación suave de apertura del panel de capítulos",
+  "Smooth zooming in and out of the quest panel": "Zoom suave al acercar y alejar el panel de misiones",
+  "Unknown entity: %s": "Entidad desconocida: %s"
+ }
+}

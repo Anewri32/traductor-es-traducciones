@@ -1,0 +1,27 @@
+{
+ "revisadas": {},
+ "ia": {
+  "All entities should animate properly. If the": "Todas las entidades deberían animarse correctamente. Si el",
+  "Citadel is a library mod intended to provide a home": "Citadel es un mod de biblioteca destinado a proporcionar un hogar",
+  "From 1.13.0 and onwards, the Icon Item has been added to allow any square icon image to be rendered. If no texture path is specified in its item tag under IconLocation, it will simply render as a pig face, like so.": "A partir de la versión 1.13.0 en adelante, se añadió el Objeto de icono para permitir renderizar cualquier imagen de icono cuadrada. Si no se especifica una ruta de textura en su etiqueta de ítem bajo IconLocation, simplemente se renderizará como una cara de cerdo, así.",
+  "From 1.8.0 and onwards, the Fancy Item and Effect Item now allow renders of spinning, bouncing items or potion effects.": "A partir de la versión 1.8.0 en adelante, el Objeto lujoso y el Ítem de efecto ahora permiten renderizar ítems que giran o rebotan, o efectos de poción.",
+  "It also contains a basic guidebook system, of which you are looking at right now.": "También contiene un sistema básico de guía, el cual estás viendo justo ahora.",
+  "It is mainly composed of shared code for animation, rendering and entity property tracking.": "Está compuesto principalmente por código compartido para animación, renderizado y seguimiento de propiedades de entidades.",
+  "Items and blocks can be rendered, along with recipes like this:": "Se pueden renderizar ítems y bloques, junto con recetas como esta:",
+  "Like items and blocks, entities and tabula models can also be rendered.": "Al igual que los ítems y bloques, también se pueden renderizar entidades y modelos de tabula.",
+  "Now on this separate page, pressing the link button should return you to the root page.": "Ahora, en esta página separada, presionar el botón de enlace debería regresarte a la página raíz.",
+  "Pressing the link button will open the page": "Presionar el botón de enlace abrirá la página",
+  "Text is automatically wrapped and read in from a .txt file.": "El texto se ajusta automáticamente y se lee desde un archivo .txt.",
+  "The book system reads in automatically from JSON files.": "El sistema de libro lee automáticamente desde archivos JSON.",
+  "The item or effect rendered is specified by NBT data.": "El ítem o efecto renderizado se especifica mediante datos NBT.",
+  "These are quite useful for pages on potion effects or for some additional pizzaz for creative tabs, advancements and more.": "Estos son bastante útiles para páginas sobre efectos de poción o para darle un toque extra a las pestañas del creativo, logros y más.",
+  "These can either be static, rotated in any direction, or follow the": "Estos pueden ser estáticos, rotar en cualquier dirección o seguir al",
+  "book is unable to find said entity, it will render a": "libro no puede encontrar dicha entidad, renderizará un",
+  "pig instead. Link buttons are useful for allowing": "cerdo en su lugar. Los botones de enlace son útiles para permitir",
+  "player's cursor.": "cursor del jugador.",
+  "players to navigate books properly.": "a los jugadores navegar por los libros correctamente.",
+  "specified, then the back button should allow": "especificado, entonces el botón de atrás debería permitir",
+  "the player to go back to the parent page.": "al Jugador(a) regresar a la página principal.",
+  "to the codebase of Alexthe666 and other mod authors.": "para la base de código de Alexthe666 y otros autores de mods."
+ }
+}

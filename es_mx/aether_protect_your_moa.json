@@ -1,11 +1,19 @@
 {
  "revisadas": {},
  "ia": {
+  "A dyeable piece of leather armor for your Moa to wear, offering a small amount of protection.": "Una pieza de armadura de Cuero teñible para que tu Moa la use, ofreciendo una pequeña cantidad de Protección.",
+  "A piece of golden armor for your Moa to wear, offering a decent amount of protection.": "Una pieza de armadura de oro para que tu Moa la use, ofreciendo una cantidad decente de Protección.",
+  "A piece of gravitite armor for your Moa to wear, offering a strong amount of protection and increasing the amount of times it can jump.": "Una pieza de armadura de gravitita para que tu Moa la use, ofreciendo una gran cantidad de Protección y aumentando la cantidad de veces que puede saltar.",
+  "A piece of iron armor for your Moa to wear, offering a strong amount of protection.": "Una pieza de armadura de diamante para que tu Moa la use, ofreciendo una gran cantidad de Protección.",
+  "A piece of iron armor for your Moa to wear, offering some amount of protection.": "Una pieza de armadura de hierro para que tu Moa la use, ofreciendo algo de Protección.",
+  "A piece of zanite armor for your Moa to wear, offering some amount of protection.": "Una pieza de armadura de zanita para que tu Moa la use, ofreciendo algo de Protección.",
   "Diamond Moa Armor": "Armadura de diamante para moa",
   "Golden Moa Armor": "Armadura dorada para moa",
   "Gravitite Moa Armor": "Armadura de gravitita para moa",
   "Iron Moa Armor": "Armadura de hierro para moa",
   "Leather Moa Armor": "Armadura de cuero para moa",
+  "Moa Chest equips": "El Moa se equipa el Cofre",
+  "The Aether: Protect Your Moa Resources": "The Aether: Recursos de Protect Your Moa",
   "Zanite Moa Armor": "Armadura de zanita para moa"
  }
 }

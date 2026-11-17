@@ -1,0 +1,11 @@
+{
+ "revisadas": {},
+ "ia": {
+  "General settings.": "Ajustes generales.",
+  "The rate at which cobwebs will spawn around spider spawners in libraries.": "La frecuencia con la que aparecerán telarañas alrededor de los generadores de arañas en las bibliotecas.",
+  "The rate at which cobwebs will spawn in various parts of the stronghold.": "La frecuencia con la que aparecerán telarañas en varias partes de la fortaleza.",
+  "The rate at which lanterns spawn throughout the stronghold.": "La frecuencia con la que aparecerán linternas por toda la fortaleza.",
+  "The rate at which torches spawn throughout the stronghold.": "La frecuencia con la que aparecerán antorchas por toda la fortaleza.",
+  "Use /locate structure betterstrongholds:stronghold instead!": "¡Usa /locate structure betterstrongholds:stronghold en su lugar!"
+ }
+}

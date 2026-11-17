@@ -1,0 +1,7 @@
+{
+ "revisadas": {},
+ "ia": {
+  "Resourcepacks\nTests each of the loaded resourcepack names\n§aresourcepack.<n>=<resourcepack_list|regex|pattern>": "Paquetes de recursos\nPrueba cada uno de los nombres de los paquetes de recursos cargados\n§aresourcepack.<n>=<resourcepack_list|regex|pattern>",
+  "Using Shaders\nIf Iris shaders are in use or not\n§ausingShaders.<n>=<true/false>": "Usando shaders\nSi los shaders de Iris están en uso o no\n§ausingShaders.<n>=<true/false>"
+ }
+}

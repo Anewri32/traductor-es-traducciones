@@ -1,0 +1,19 @@
+{
+ "revisadas": {},
+ "ia": {
+  "All %s": "Todo %s",
+  "Changes apply after you reload the world (quit to title and re-enter, or run /reload), and only affect newly generated chunks.": "Los cambios se aplican después de recargar el mundo (sal al menú principal y vuelve a entrar, o usa /reload), y solo afectan a los chunks nuevos.",
+  "Disabled": "Deshabilitado",
+  "Enabled": "Habilitado",
+  "How common every %s structure is. 2x means about twice as many, 0.5x about half as many.": "Qué tan común es cada estructura de %s. 2x significa el doble, 0.5x significa la mitad.",
+  "How common every Moog's structure is. 2x means about twice as many, 0.5x about half as many.": "Qué tan común es cada estructura de Moog. 2x significa el doble, 0.5x significa la mitad.",
+  "Moog's Structure Lib": "Moog's Structure Lib",
+  "Moog's Structure Lib's config screen requires Cloth Config API. Install it to configure in game.": "La pantalla de configuración de Moog's Structure Lib requiere Cloth Config API. Instálala para configurar dentro del juego.",
+  "Moog's Structures": "Estructuras de Moog",
+  "No preview: this mod hasn't set a preview link (mod_slug).": "Sin vista previa: este mod no ha establecido un enlace de vista previa (mod_slug).",
+  "Preview": "Vista previa",
+  "Replace Vanilla Structures": "Reemplazar estructuras vanilla",
+  "Structures": "Estructuras",
+  "Universal frequency": "Frecuencia universal"
+ }
+}

@@ -1,0 +1,9 @@
+{
+ "revisadas": {},
+ "ia": {
+  "Force display culling": "Forzar recorte de visualización",
+  "Solid leaves": "Hojas sólidas",
+  "When turned on, display entities without a bounding box will get assigned a default bounding box for culling purposes. This can improve performance for maps/servers that do not configure their display entities correctly, but can cause visual issues.": "Cuando está activado, las entidades sin caja de colisión recibirán una caja predeterminada para propósitos de recorte. Esto puede mejorar el rendimiento en mapas/servidores que no configuran correctamente sus entidades de visualización, pero puede causar problemas visuales.",
+  "When turned on, leaves will be treated as solid for culling purposes. This can improve performance in forests, but also cause visual issues. Useful when setting 'See-Through Leaves' to Off, or using a bushy leaves resource pack.": "Cuando está activado, las hojas se tratarán como sólidas para propósitos de recorte. Esto puede mejorar el rendimiento en bosques, pero también causar problemas visuales. Útil cuando se configura \"Hojas transparentes\" en Desactivado, o al usar un paquete de recursos con hojas frondosas."
+ }
+}

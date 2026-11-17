@@ -1,0 +1,17 @@
+{
+ "revisadas": {},
+ "ia": {
+  "A 16x16 texture to use as a custom background, instead of the typical dirt.": "Una textura de 16x16 para usar como fondo personalizado, en lugar de la típica tierra.",
+  "Allows right clicking to cycle backwards through some buttons.": "Permite hacer clic derecho para recorrer hacia atrás algunos botones.",
+  "Allows scrolling the mouse wheel to modify options using a slider": "Permite usar la rueda del ratón para modificar opciones que usan un deslizante",
+  "Custom Background Texture": "Textura de fondo personalizada",
+  "Enable Custom Background Texture": "Habilitar textura de fondo personalizada",
+  "If enabled, a custom background texture will be used where possible.": "Si se habilita, se usará una textura de fondo personalizada donde sea posible.",
+  "Mouse Scroll Wheel Affects Sliders": "La rueda del ratón afecta a los deslizantes",
+  "Only does anything if the Enable Custom Background Texture option is true.": "Solo funciona si la opción Habilitar textura de fondo personalizada está activada.",
+  "Right Click Reverses Cycle Buttons": "El clic derecho invierte los botones de ciclo",
+  "The texture used is specified by the Custom Background Texture option below.": "La textura utilizada se especifica en la opción Textura de fondo personalizada de abajo.",
+  "YUNG's Menu Tweaks": "Ajustes de menú de YUNG",
+  "when hovering over the slider.": "al pasar el cursor sobre el deslizante."
+ }
+}

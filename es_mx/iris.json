@@ -1,0 +1,13 @@
+{
+ "revisadas": {},
+ "ia": {
+  "\nmacOS is known to have issues with many shader packs.": "\nmacOS es conocido por tener problemas con muchos paquetes de shaders.",
+  "Oculus encountered an issue trying to load the shader; please report this to Oculus developers. ": "Oculus encontró un problema al intentar cargar el shader; por favor repórtalo a los desarrolladores de Oculus. ",
+  "Shader Packs...": "Paquetes de shaders...",
+  "The color space to transform the screen to. Works on top of shader packs. Use SRGB if unsure.": "El espacio de color al que transformar la pantalla. Funciona sobre los paquetes de shaders. Usa SRGB si no estás seguro.",
+  "The shader requested a specific feature (SSBO) that is not supported by your GPU, it may not work correctly.": "El shader solicitó una característica específica (SSBO) que no es compatible con tu GPU, puede que no funcione correctamente.",
+  "The shaderpack failed to load! Please report the error to the shader developer. ": "¡El paquete de shaders no se cargó! Por favor reporta el error al desarrollador del shader. ",
+  "The shadow render distance controls how far away terrain can potentially be rendered in the shadow pass. Lower distances mean that less terrain will be rendered, improving frame rates. This option cannot be changed on packs which explicitly specify a shadow render distance. The actual shadow render distance is capped by the View Distance setting.": "La distancia de renderizado de sombras controla qué tan lejos se puede renderizar el terreno en la pasada de sombras. Distancias menores significan que se renderizará menos terreno, mejorando los FPS. Esta opción no se puede cambiar en paquetes que especifican explícitamente una distancia de renderizado de sombras. La distancia real de renderizado de sombras está limitada por la configuración de Distancia de visión.",
+  "Wireframe (SP only)": "Alambre (solo SP)"
+ }
+}

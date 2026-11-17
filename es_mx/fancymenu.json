@@ -1,0 +1,17 @@
+{
+ "revisadas": {},
+ "ia": {
+  "Browser initialization failed!": "¡Falló la inicialización del navegador!",
+  "Browser is starting...": "Iniciando el navegador...",
+  "CTRL + ALT + C": "CTRL + ALT C",
+  "CTRL + ALT + D": "CTRL + ALT D",
+  "CTRL + ALT + R": "CTRL + ALT R",
+  "Check the game log for details.": "Revisa el registro del juego para más detalles.",
+  "Color [HEX]": "Color [HEX]",
+  "The End": "El End",
+  "Video [Rinku]": "Video [Rinku]",
+  "Waiting for Rinku to finish initializing.": "Esperando a que Rinku termine de inicializarse.",
+  "§lGPU:§r %1$s (OpenGL: %2$s)": "§lGPU:§r %1$s (OpenGL: %2$s)",
+  "§xYou need to select an action first!": "¡Necesitas seleccionar una acción primero!"
+ }
+}

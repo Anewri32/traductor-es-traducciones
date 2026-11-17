@@ -1,0 +1,15 @@
+{
+ "revisadas": {},
+ "ia": {
+  "Item Damage\n▶ May also include relational operators, e.g. \"<10\" or \">=5\"\n and optionally by percentage, e.g. \">50%\"": "Daño del ítem\n▶ También puede incluir operadores relacionales, p. ej. \"<10\" o \">=5\"\n y opcionalmente por porcentaje, p. ej. \">50%\"",
+  "Matches if only specified part of NBT is present": "Coincide si solo está presente la parte especificada del NBT",
+  "Maximum Stack Size\n▶ May also include relational operators, e.g. \"<64\" or \">=16\"": "Tamaño máximo de pila\n▶ También puede incluir operadores relacionales, p. ej. \"<64\" o \">=16\"",
+  "NBT String\n▶ e.g. { text:\"hello\", value: 1, active: true }": "Cadena NBT\n▶ p. ej. { text:\"hello\", value: 1, active: true }",
+  "One of two filters must match, but not both": "Uno de los dos filtros debe coincidir, pero no ambos",
+  "Regular Expression\n Matched against the item ID\n▶ e.g. \"^minecraft:\" matches all vanilla items": "Expresión regular\n Comparada con el ID del ítem\n▶ p. ej. \"^minecraft:\" coincide con todos los ítems vanilla",
+  "Requires a mod or a script, usually KubeJS, to make it work": "Requiere un mod o un script, usualmente KubeJS, para que funcione",
+  "Tab, Scroll Wheel, Cursor Up/Down: adjust highlight\nEnter: select highlighted": "Tab, rueda de desplazamiento, cursor arriba/abajo: ajustar resaltado\nEnter: seleccionar resaltado",
+  "Tags names, such as 'minecraft:wool' or 'forge:cobblestone'": "Nombra etiquetas, como 'minecraft:wool' o 'forge:cobblestone'",
+  "Weak NBT String\n▶ e.g. { text:\"hello\", value: 1, active: true }\n▶ Only the NBT fields supplied will be checked (any other fields in the item are ignored)": "Cadena NBT débil\n▶ p. ej. { text:\"hello\", value: 1, active: true }\n▶ Solo se verificarán los campos NBT suministrados (cualquier otro campo en el ítem se ignora)"
+ }
+}

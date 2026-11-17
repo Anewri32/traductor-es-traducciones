@@ -1,10 +1,36 @@
 {
  "revisadas": {},
  "ia": {
+  "A hardened and fire-resistant ingot. With the respective template, it can be used in a Smithing Table to forge Phoenix armor.": "Un lingote endurecido y resistente al fuego. Con la plantilla respectiva, se puede usar en una mesa de herrería para forjar armadura de fénix.",
+  "A mesh of interwoven blue metallic links. With the respective template, it can be used in a Smithing Table to forge Neptune armor.": "Una malla de eslabones metálicos azules entrelazados. Con la plantilla respectiva, se puede usar en una mesa de herrería para forjar armadura de neptuno.",
+  "A rare metal utilized by the Valkyries. With the respective template, it can be used in a Smithing Table to forge Valkyrie equipment.": "Un metal raro utilizado por las valquirias. Con la plantilla respectiva, se puede usar en una mesa de herrería para forjar equipo de valquiria.",
+  "A smithing template that can be used in the creation of Neptune Armor, using both Neptune Mesh and Zanite Armor.": "Una plantilla de herrería que se puede usar en la creación de armadura de neptuno, usando tanto malla de neptuno como armadura de zanita.",
+  "A smithing template that can be used in the creation of Phoenix Armor, using both Pyral Ingots and Gravitite Armor.": "Una plantilla de herrería que se puede usar en la creación de armadura de fénix, usando tanto lingotes de piral como armadura de gravitita.",
+  "A smithing template that can be used in the creation of Valkyrie equipment, using both Valkyrum Ingots and Gravitite equipment.": "Una plantilla de herrería que se puede usar en la creación de equipo de valquiria, usando tanto lingotes de valkyrum como equipo de gravitita.",
+  "A solid block made from Pyral Ingots. They can power beacons and have a fiery look to them.": "Un bloque sólido hecho de lingotes de piral. Pueden dar poder a los faros y tienen un aspecto de fuego.",
+  "A solid block made from Valkyrum Ingots. They can power beacons and be used as decorative accenting.": "Un bloque sólido hecho de lingotes de valkyrum. Pueden dar poder a los faros y usarse como acento decorativo.",
+  "Add Neptune Mesh": "Añade malla de neptuno",
+  "Add Pyral Ingot": "Añade lingote de piral",
+  "Add Valkyrum Ingot": "Añade lingote de valkyrum",
+  "Add a piece of gravitite armor": "Añade una pieza de armadura de gravitita",
+  "Add a piece of zanite armor": "Añade una pieza de armadura de zanita",
+  "Add gravitite armor, weapon, or tool": "Añade una pieza de armadura, arma o herramienta de gravitita",
   "Block of Pyral": "Bloque de piral",
   "Block of Valkyrum": "Bloque de valkirio",
+  "Gravitite Armor": "Armadura de gravitita",
+  "Gravitite Equipment": "Equipo de gravitita",
+  "Neptune Material": "Material de neptuno",
   "Neptune Mesh": "Malla de neptuno",
+  "Neptune Upgrade": "Mejora de neptuno",
+  "Phoenix Material": "Material de fénix",
+  "Phoenix Upgrade": "Mejora de fénix",
   "Pyral Ingot": "Lingote de piral",
-  "Pyral Shard": "Fragmento de piral"
+  "Pyral Shard": "Fragmento de piral",
+  "The Aether: Treasure Reforging Resources": "Recursos de The Aether: Treasure Reforging",
+  "Valkyrie Material": "Material de valquiria",
+  "Valkyrie Upgrade": "Mejora de valquiria",
+  "Valkyrum Ingot": "Lingote de valkyrum",
+  "When combined with obsidian, fragments of Pyral material can be used to craft Pyral Ingots. The shard can also function as a long-lasting fuel.": "Al combinarse con obsidiana, los fragmentos de material piral se pueden usar para fabricar lingotes de piral. El fragmento también puede funcionar como un combustible de larga duración.",
+  "Zanite Armor": "Armadura de zanita"
  }
 }

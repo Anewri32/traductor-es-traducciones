@@ -1,0 +1,12 @@
+{
+ "revisadas": {},
+ "ia": {
+  "'%s' will be moved to the %s, so you can restore it later if necessary.": "«%s» se moverá a la %s, así podrás restaurarlo más tarde si es necesario.",
+  "Failed to move to %s": "No se pudo mover a %s",
+  "Move To %s": "Mover a %s",
+  "Recycle Bin": "Cubo de reciclaje",
+  "Trash": "Basura",
+  "recycle bin": "cubo de reciclaje",
+  "trash": "basura"
+ }
+}

@@ -1,0 +1,9 @@
+{
+ "revisadas": {},
+ "ia": {
+  "Added by mod: %s": "Añadido por mod: %s",
+  "Controls the resolution of the game in fullscreen mode.": "Controla la resolución del juego en modo pantalla completa.",
+  "Use Accurate Quad Shading": "Usar sombreado de cuádruples preciso",
+  "When enabled, Embeddium will apply shading to non-vanilla block faces based on the true direction they are facing, not their axis-aligned direction. This can improve lighting quality when the Forge experimental light pipeline is disabled (which is recommended for best performance).\n\nIt has no effect if the experimental light pipeline is enabled.": "Cuando está activado, Embeddium aplicará sombreado a las caras de bloques no vanilla según la dirección real a la que están orientadas, no según su dirección alineada al eje. Esto puede mejorar la calidad de la luz cuando la tubería de luz experimental de Forge está desactivada (lo cual se recomienda para obtener el mejor rendimiento).\n\nNo tiene efecto si la tubería de luz experimental está activada."
+ }
+}

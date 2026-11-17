@@ -1,0 +1,23 @@
+{
+ "revisadas": {},
+ "ia": {
+  "Automatic File Watching": "Monitoreo automático de archivos",
+  "Automatically watch config files and reload them when they are changed outside the game.": "Monitorea automáticamente los archivos de configuración y los recarga cuando se modifican fuera del juego.",
+  "Change Settling Delay": "Retraso de estabilización de cambios",
+  "Controls automatic config file watching and reload timing.": "Controla el monitoreo automático de archivos de configuración y el tiempo de recarga.",
+  "Controls optional MezzConfig diagnostic logging.": "Controla el registro de diagnóstico opcional de MezzConfig.",
+  "Default Value: %s": "Valor predeterminado: %s",
+  "Description: %s": "Descripción: %s",
+  "File Watching": "Monitoreo de archivos",
+  "Log Untranslated Keys": "Registrar claves no traducidas",
+  "Log category and value localization keys that are missing from the active language. Enabled by default in development environments.": "Registra las claves de localización de categorías y valores que faltan en el idioma activo. Activado por defecto en entornos de desarrollo.",
+  "Logging": "Registro",
+  "Milliseconds between attempts to start watching config directories that do not exist yet.": "Milisegundos entre intentos de comenzar a monitorear directorios de configuración que aún no existen.",
+  "Milliseconds to wait after the last filesystem event before reloading changed config files.": "Milisegundos a esperar después del último evento del sistema de archivos antes de recargar los archivos de configuración modificados.",
+  "Missing Directory Retry Interval": "Intervalo de reintento de directorio faltante",
+  "Name: %s": "Nombre: %s",
+  "Requires a game restart to take effect.": "Requiere reiniciar el juego para aplicar los cambios.",
+  "Requires a world restart to take effect.": "Requiere reiniciar el mundo para aplicar los cambios.",
+  "Valid Values: %s": "Valores válidos: %s"
+ }
+}

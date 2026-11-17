@@ -1,0 +1,25 @@
+{
+ "revisadas": {},
+ "ia": {
+  "Allows some mobs to drop souls on death": "Permite que algunas criaturas suelten almas al morir",
+  "Blaze Soul": "Alma de blaze",
+  "Cave Spider Soul": "Alma de araña de cueva",
+  "Creeper Soul": "Alma de creeper",
+  "Disables Spawners while held": "Desactiva los generadores mientras se sostiene",
+  "Drowned Soul": "Alma de ahogado",
+  "Husk Soul": "Alma de disecado",
+  "Inactive Spawner": "Generador inactivo",
+  "Magma Cube Soul": "Alma de cubo de magma",
+  "Silverfish Soul": "Alma de pez de plata",
+  "Skeleton Soul": "Alma de esqueleto",
+  "Soul Stealing": "Robo de almas",
+  "Spawner Fragment": "Fragmento de generador",
+  "Spawner Silencer": "Silenciador de generador",
+  "Spawners+": "Spawners+",
+  "Spider Soul": "Alma de araña",
+  "Stray Soul": "Alma de errante",
+  "Use on an Inactive Spawner": "Usar en un generador inactivo",
+  "Wither Skeleton Soul": "Alma de esqueleto del Wither",
+  "Zombie Soul": "Alma de zombi"
+ }
+}

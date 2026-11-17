@@ -1,0 +1,9 @@
+{
+ "revisadas": {},
+ "ia": {
+  "%1$s was delt a bad hand": "%1$s recibió una mala mano",
+  "%1$s was delt a bad hand by %2$s": "%1$s recibió una mala mano de %2$s",
+  "Decreases magic damage by 30%": "Reduce el daño mágico en un 30%",
+  "Distant Theater Map": "Mapa del teatro distante"
+ }
+}

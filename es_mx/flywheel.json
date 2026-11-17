@@ -1,0 +1,17 @@
+{
+ "revisadas": {},
+ "ia": {
+  "Not using light directions": "No se usan direcciones de luz",
+  "Set light directions to off": "Desactivar direcciones de luz",
+  "Set light directions to on": "Activar direcciones de luz",
+  "The Flywheel backend is now '%s'": "El backend de Flywheel ahora es '%s'",
+  "The current Flywheel backend is '%s'": "El backend actual de Flywheel es '%s'",
+  "The requested backend '%s' is not available": "El backend solicitado '%s' no está disponible",
+  "Unknown backend '%s'": "Backend desconocido '%s'",
+  "Update limiting is currently disabled": "La limitación de actualizaciones está desactivada",
+  "Update limiting is currently enabled": "La limitación de actualizaciones está activada",
+  "Update limiting is now disabled": "La limitación de actualizaciones ahora está desactivada",
+  "Update limiting is now enabled": "La limitación de actualizaciones ahora está activada",
+  "Using light directions": "Usando direcciones de luz"
+ }
+}

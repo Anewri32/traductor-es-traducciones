@@ -1,6 +1,7 @@
 {
  "revisadas": {},
  "ia": {
-  "Bartering Station": "Estación de trueque"
+  "Bartering Station": "Estación de trueque",
+  "Found %s piglin(s) nearby for bartering": "Se encontraron %s piglin(s) cerca para intercambiar"
  }
 }
