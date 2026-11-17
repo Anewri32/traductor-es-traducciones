@@ -1750,6 +1750,151 @@
    "hash": "1f581e806f9612b5",
    "revisadas": 0,
    "ia": 79
+  },
+  "es_mx/aether_genesis.json": {
+   "hash": "697f190cecbb92fe",
+   "revisadas": 0,
+   "ia": 2
+  },
+  "es_mx/aether_overworld_ores.json": {
+   "hash": "f8d928602884d0ff",
+   "revisadas": 0,
+   "ia": 15
+  },
+  "es_mx/aether_protect_your_moa.json": {
+   "hash": "8234ca064cc72bbb",
+   "revisadas": 0,
+   "ia": 6
+  },
+  "es_mx/aether_redux.json": {
+   "hash": "e19625f55d9cbcc4",
+   "revisadas": 0,
+   "ia": 366
+  },
+  "es_mx/aether_treasure_reforging.json": {
+   "hash": "8ec9e63613f8b20c",
+   "revisadas": 0,
+   "ia": 5
+  },
+  "es_mx/aetherdelight.json": {
+   "hash": "3d2d8232a037c9d5",
+   "revisadas": 0,
+   "ia": 34
+  },
+  "es_mx/amendments.json": {
+   "hash": "fbd06e0ba91d07e0",
+   "revisadas": 0,
+   "ia": 3
+  },
+  "es_mx/ascended_quark.json": {
+   "hash": "e8883aa992d01091",
+   "revisadas": 0,
+   "ia": 137
+  },
+  "es_mx/autumnity.json": {
+   "hash": "a022579758ffa59d",
+   "revisadas": 0,
+   "ia": 1
+  },
+  "es_mx/baguettelib.json": {
+   "hash": "6e05bbdcd13f51c3",
+   "revisadas": 0,
+   "ia": 2
+  },
+  "es_mx/barteringstation.json": {
+   "hash": "536b5419a01d139c",
+   "revisadas": 0,
+   "ia": 1
+  },
+  "es_mx/betterend.json": {
+   "hash": "9dc78abb7ae2c6b3",
+   "revisadas": 0,
+   "ia": 91
+  },
+  "es_mx/betternether.json": {
+   "hash": "9ee13790ddf287b7",
+   "revisadas": 0,
+   "ia": 654
+  },
+  "es_mx/blue_skies.json": {
+   "hash": "b261b176e6b8d6ee",
+   "revisadas": 0,
+   "ia": 39
+  },
+  "es_mx/bountiful.json": {
+   "hash": "049f9b2dfddfef5c",
+   "revisadas": 0,
+   "ia": 1
+  },
+  "es_mx/bygonenether.json": {
+   "hash": "e81339c054802a08",
+   "revisadas": 0,
+   "ia": 8
+  },
+  "es_mx/cataclysm.json": {
+   "hash": "660cd5df50eb6527",
+   "revisadas": 0,
+   "ia": 3
+  },
+  "es_mx/chipped.json": {
+   "hash": "a09790d87ded6869",
+   "revisadas": 0,
+   "ia": 6844
+  },
+  "es_mx/deep_aether.json": {
+   "hash": "d1d5803b88043f2a",
+   "revisadas": 0,
+   "ia": 36
+  },
+  "es_mx/delightful.json": {
+   "hash": "d67a3200b79b67f6",
+   "revisadas": 0,
+   "ia": 7
+  },
+  "es_mx/diagonalwallfix.json": {
+   "hash": "edf4098dbc79b2a6",
+   "revisadas": 0,
+   "ia": 1
+  },
+  "es_mx/glow_up.json": {
+   "hash": "e7322324f4289809",
+   "revisadas": 0,
+   "ia": 1
+  },
+  "es_mx/handcrafted.json": {
+   "hash": "759d3058e8529bb4",
+   "revisadas": 0,
+   "ia": 11
+  },
+  "es_mx/hybrid_aquatic.json": {
+   "hash": "3ef20303f998922f",
+   "revisadas": 0,
+   "ia": 11
+  },
+  "es_mx/philipsruins.json": {
+   "hash": "b02baa0e8d6ffd63",
+   "revisadas": 0,
+   "ia": 1
+  },
+  "es_mx/stalwart_dungeons.json": {
+   "hash": "1b1ea4e0d900d1cc",
+   "revisadas": 0,
+   "ia": 1
+  },
+  "es_mx/stoneworks.json": {
+   "hash": "544a6d4688a8ec07",
+   "revisadas": 0,
+   "ia": 58
+  },
+  "es_mx/umbral_skies.json": {
+   "hash": "c634e4e6475c704f",
+   "revisadas": 0,
+   "ia": 1
+  },
+  "es_mx/vanillabackport.json": {
+   "hash": "ebb0669330d4e864",
+   "revisadas": 0,
+   "ia": 2
   }
  }
 }
