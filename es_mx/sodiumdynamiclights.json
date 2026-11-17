@@ -1,0 +1,20 @@
+{
+ "revisadas": {},
+ "ia": {
+  "Configures the update rate for Creeper lighting.": "Configura la velocidad de actualización de la luz de los creeper.",
+  "Configures the update rate for TNT lighting.": "Configura la velocidad de actualización de la luz de la TNT.",
+  "Configures the update rate for dynamic light sources": "Configura la velocidad de actualización para las fuentes de luz dinámica.",
+  "Creeper Lighting Quality": "Calidad de luz de los creeper",
+  "Dynamic Block Entity Lighting": "Iluminación de entidades de bloque dinámicas",
+  "Dynamic Entity Lighting": "Iluminación de entidades dinámica",
+  "Dynamic Lights": "Luces dinámicas",
+  "Enables first-person dynamic lighting. It's recommended to disable this if you're using shaders that has their own dynamic lighting.": "Habilita la iluminación dinámica en primera persona. Se recomienda desactivar esto si usas shaders que tienen su propia iluminación dinámica.",
+  "Enables the water-sensitive light sources check. This means that some items will not emit light while being submerged in water.": "Habilita la comprobación de fuentes de luz sensibles al agua. Esto significa que algunos objetos no emitirán luz mientras estén sumergidos en agua.",
+  "Extinguish When Underwater": "Apagar bajo el agua",
+  "Handheld Lighting": "Iluminación en mano",
+  "If enabled, block entities will have dynamic lighting.": "Si está habilitado, las entidades de bloque emitirán luz dinámica.",
+  "If enabled, entities (such as mobs and dropped items) will have dynamic lighting.": "Si está habilitado, las entidades (como los monstruos y objetos en el suelo) emitirán luz dinámica.",
+  "Quality Mode": "Modo de calidad",
+  "TNT Lighting Quality": "Calidad de luz de la TNT"
+ }
+}

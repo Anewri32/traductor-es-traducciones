@@ -1,0 +1,27 @@
+{
+ "revisadas": {},
+ "ia": {
+  "Broken shader pack alert is disabled": "La alerta de paquete de shaders dañado está desactivada",
+  "Broken shader pack alert is enabled": "La alerta de paquete de shaders dañado está activada",
+  "Broken shader pack alert is now disabled": "La alerta de paquete de shaders dañado ahora está desactivada",
+  "Broken shader pack alert is now enabled": "La alerta de paquete de shaders dañado ahora está activada",
+  "Current shader pack contains broken shaders, expect graphical issues": "El paquete de shaders actual contiene shaders dañados, espera problemas gráficos",
+  "Disable broken shader pack alert": "Desactivar la alerta de paquete de shaders dañado",
+  "Disable incompatible shader pack alert": "Desactivar la alerta de paquete de shaders incompatible",
+  "Disable this alert": "Desactivar esta alerta",
+  "Enable fallback mode": "Activar modo de respaldo",
+  "Fallback mode is disabled": "El modo de respaldo está desactivado",
+  "Fallback mode is enabled": "El modo de respaldo está activado",
+  "Fallback mode is now disabled": "El modo de respaldo ahora está desactivado",
+  "Fallback mode is now enabled. Here be dragons !": "El modo de respaldo ahora está activado. ¡Aquí hay dragones!",
+  "Incompatible shader pack alert is disabled": "La alerta de paquete de shaders incompatible está desactivada",
+  "Incompatible shader pack alert is enabled": "La alerta de paquete de shaders incompatible está activada",
+  "Incompatible shader pack alert is now disabled": "La alerta de paquete de shaders incompatible ahora está desactivada",
+  "Incompatible shader pack alert is now enabled": "La alerta de paquete de shaders incompatible ahora está activada",
+  "The shader pack %1$s is not compatible": "El paquete de shaders %1$s no es compatible",
+  "You may request Colorwheel support to the shader pack developer. You may also enable the %1$s for fully automatic support. There WILL BE graphical issues and extensive support WON'T be provided.": "Puedes solicitar soporte de Colorwheel al desarrollador del paquete de shaders. También puedes activar el %1$s para obtener soporte totalmente automático. HABRÁ problemas gráficos y NO se proporcionará soporte extensivo.",
+  "You should select %1$s in the Shader Packs menu instead": "Deberías seleccionar %1$s en el menú de Paquetes de shaders en su lugar",
+  "click here": "haz clic aquí",
+  "fallback mode": "modo de respaldo"
+ }
+}

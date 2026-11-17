@@ -1,0 +1,14 @@
+{
+ "revisadas": {},
+ "ia": {
+  "Copied!": "¡Copiado!",
+  "Copy Pack Id": "Copiar ID del pack",
+  "Hold %s to copy": "Mantén %s para copiar",
+  "Hold %s to reload": "Mantén %s para recargar",
+  "Hold %s to toggle": "Mantén %s para alternar",
+  "Reload Settings": "Recargar configuración",
+  "Reloaded!": "¡Recargado!",
+  "Toggle Pack Ids": "Alternar IDs de packs",
+  "Toggled!": "¡Alternado!"
+ }
+}

@@ -1,0 +1,17 @@
+{
+ "revisadas": {},
+ "ia": {
+  "Chef's Delight Config": "Configuración de Chef's Delight",
+  "Desert Chef House": "Casa del chef del desierto",
+  "Desert Cook House": "Casa del cocinero del desierto",
+  "Plains Chef House": "Casa del chef de la llanura",
+  "Plains Cook House": "Casa del cocinero de la llanura",
+  "Savanna Chef House": "Casa del chef de la sabana",
+  "Savanna Cook House": "Casa del cocinero de la sabana",
+  "Snowy Chef House": "Casa del chef nevada",
+  "Snowy Cook House": "Casa del cocinero nevada",
+  "Taiga Chef House": "Casa del chef de la taiga",
+  "Taiga Cook House": "Casa del cocinero de la taiga",
+  "Village House Weights": "Pesos de las casas de la aldea"
+ }
+}

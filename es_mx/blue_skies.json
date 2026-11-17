@@ -1,7 +1,15 @@
 {
  "revisadas": {},
  "ia": {
+  "%1$s tripped on a root whilst fighting %2$s": "%1$s tropezó con una raíz mientras peleaba contra %2$s",
+  "%1$s was chomped whilist trying to escape %2$s": "%1$s fue mordido mientras intentaba escapar de %2$s",
+  "%1$s was rooted into by %2$s": "%1$s fue enraizado por %2$s",
+  "%1$s was sent flying whilst fighting %2$s": "%1$s salió volando mientras peleaba contra %2$s",
+  "Aquite Material": "Material de aquita",
+  "Banished Armor Trim": "Adorno de armadura desterrado",
+  "Blue Skies": "Blue Skies",
   "Bluebright Hanging Sign": "Letrero colgante de azulbrillo",
+  "Charoite Material": "Material de gema de charoita",
   "Comet Berries": "Bayas de cometa",
   "Comet Berry Pie": "Pay de baya de cometa",
   "Comet Bookshelf": "Librería de cometa",
@@ -32,13 +40,23 @@
   "Comet Wood Slab": "Losa de madera de cometa",
   "Comet Wood Stairs": "Escaleras de madera de cometa",
   "Comet Wood Sword": "Espada de madera de cometa",
+  "Diopside Material": "Material de diópsido",
   "Dusk Hanging Sign": "Cartel colgante del anochecer",
+  "Falsite Material": "Material de falsita",
   "Frostbright Hanging Sign": "Cartel colgante brillante crujiente",
+  "Horizonite Material": "Material de horizonita",
   "Lunar Hanging Sign": "Cartel colgante lunar",
   "Maple Hanging Sign": "Cartel colgante de arce",
+  "Moonstone Material": "Material de cristal lunar",
   "Potted Comet Sapling": "Retoño de cometa en maceta",
+  "Pyrope Material": "Material de piropo",
+  "Regrowth Armor Trim": "Adorno de armadura de recrecimiento",
   "Starlit Hanging Sign": "Cartel colgante estelar",
   "Stripped Comet Log": "Tronco de cometa sin corteza",
-  "Stripped Comet Wood": "Madera de cometa sin corteza"
+  "Stripped Comet Wood": "Madera de cometa sin corteza",
+  "Sunstone Material": "Material de piedra solar",
+  "Thwarted Armor Trim": "Adorno de armadura frustrado",
+  "Toxic Armor Trim": "Adorno de armadura tóxico",
+  "Ventium Material": "Material de ventium"
  }
 }

@@ -1,0 +1,20 @@
+{
+ "revisadas": {},
+ "ia": {
+  "Add end city treasure": "Añadir tesoro de ciudad del End",
+  "Blacklisted dimensions": "Dimensiones en lista negra",
+  "Charm": "Amuleto",
+  "Display totem on chest": "Mostrar tótem en el cofre",
+  "Give totem effects": "Dar efectos de tótem",
+  "Is inverted blacklist": "Es lista negra invertida",
+  "Needs totem": "Necesita tótem",
+  "Postmortal 2": "Postmortal 2",
+  "Put in your main-/offhand to prevent dying if you fall in the void.": "Colócalo en tu mano principal o secundaria para evitar morir si caes en El vacío.",
+  "Show totem tooltip": "Mostrar descripción del tótem",
+  "Teleport height offset": "Desplazamiento de altura de teletransporte",
+  "Totem of Void Undying": "Tótem de la inmortalidad del vacío",
+  "Translation (en_us) by Affehund": "Traducción (es_mx) por Affehund",
+  "Use a Totem of Void Undying to cheat death when falling in the void": "Usa un Tótem de la inmortalidad del vacío para burlar a la muerte al caer en El vacío",
+  "Use totem from inventory": "Usar tótem desde el inventario"
+ }
+}

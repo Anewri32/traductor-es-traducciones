@@ -1,0 +1,23 @@
+{
+ "revisadas": {},
+ "ia": {
+  "(Contains broken paths)": "(Contiene rutas rotas)",
+  "Allow broken paths in resourcepacks": "Permitir rutas rotas en paquetes de recursos",
+  "Allows packs with illegal resource paths to load.\nMay cause issues!": "Permite que se carguen paquetes con rutas de recursos no válidas.\n¡Puede causar problemas!",
+  "CIT Enchantment: Scroll Multiplier": "Encantamiento CIT: Multiplicador de desplazamiento",
+  "CIT Resewn Configuration": "Configuración de CIT Resewn",
+  "Cache": "Caché",
+  "EVERY %s TICKS": "CADA %s TICKS",
+  "EVERY TICK": "CADA TICK",
+  "Enabled": "Habilitado",
+  "General multiplier for the scroll speed of the glint textures added by enchantment CITs.": "Multiplicador general para la Velocidad de desplazamiento de las texturas de brillo añadidas por los CIT de encantamiento.",
+  "How often should the cit cache be refreshed.\nHigher values will give more performance.\nLower values will make cits update faster.\nREALTIME will remove the cache entirely,\n making items check for cits every frame.": "Con qué frecuencia se debe actualizar la caché de CIT.\nValores más altos darán más rendimiento.\nValores más bajos harán que los CIT se actualicen más rápido.\nTIEMPO REAL eliminará la caché por completo,\nhaciendo que los objetos verifiquen los CIT en cada fotograma.",
+  "Mute loading errors": "Silenciar errores de carga",
+  "Mute loading warnings": "Silenciar advertencias de carga",
+  "REALTIME": "TIEMPO REAL",
+  "Should CIT Resewn load and inject cits from resourcepacks": "¿Debe CIT Resewn cargar e inyectar CIT desde paquetes de recursos?",
+  "Should CIT Resewn not log cit errors": "¿Debe CIT Resewn no registrar errores de CIT?",
+  "Should CIT Resewn not log cit warnings": "¿Debe CIT Resewn no registrar advertencias de CIT?",
+  "This pack contains broken paths and support for it may be dropped in the future. Contact pack author to remove this warning. (~ CIT Resewn)": "Este paquete contiene rutas rotas y es posible que el soporte para él se elimine en el futuro. Contacta al autor del paquete para eliminar esta advertencia. (~ CIT Resewn)"
+ }
+}

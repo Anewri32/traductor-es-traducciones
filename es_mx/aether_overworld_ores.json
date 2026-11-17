@@ -1,6 +1,12 @@
 {
  "revisadas": {},
  "ia": {
+  "A form of Sulfur native to the Aether. It smells rather repulsive.": "Una forma de sulfuro nativa del Aether. Huele bastante repulsivo.",
+  "A fruitful ore that drops several Lapis Lazuli, an indispensible ingredient for enchanting.": "Un mineral fructífero que suelta varios lapislázuli, un ingrediente indispensable para encantar.",
+  "A variety of Nickel Ore found in the Aether. Nickel is known for its resistance to corrosion.": "Una variedad de mineral de níquel que se encuentra en el Aether. El níquel es conocido por su resistencia a la corrosión.",
+  "An uncommon metal ore, some ancient civilizations smelted it with copper to produce Bronze.": "Un mineral metálico poco común; algunas civilizaciones antiguas lo fundían con cobre para producir bronce.",
+  "Coal, like Ambrosium, is a useful furnace fuel in any dimension. However, torches and campfires made with coal won't work in the Aether.": "El carbón, al igual que el ambrosio, es un combustible útil para el horno en cualquier dimensión. Sin embargo, las antorchas y fogatas hechas con carbón no funcionarán en el Aether.",
+  "Diamonds not only rival Gravitite in rarity, durability, and power, but also are integral for Jukeboxes and to copy Smithing Templates.": "Los diamantes no solo rivalizan con la gravitita en rareza, durabilidad y poder, sino que también son fundamentales para las cajas de música y para copiar plantillas de herrería.",
   "Holystone Coal Ore": "Carbón de piedra sagrada",
   "Holystone Copper Ore": "Cobre de piedra sagrada",
   "Holystone Diamond Ore": "Diamante de piedra sagrada",
@@ -15,6 +21,15 @@
   "Holystone Sulfur Ore": "Sulfuro de piedra sagrada",
   "Holystone Tin Ore": "Estaño de piedra sagrada",
   "Holystone Uranium Ore": "Uranio de piedra sagrada",
-  "Holystone Zinc Ore": "Zinc de piedra sagrada"
+  "Holystone Zinc Ore": "Zinc de piedra sagrada",
+  "Lead, when smelted, is a durable yet pliable metal good for a variety of purposes. However, it is toxic to ingest.": "El plomo, al fundirse, es un metal duradero pero flexible, bueno para una variedad de propósitos. Sin embargo, es tóxico si se ingiere.",
+  "Like all metal ores, the Raw Zinc this block drops must be smelted before use. Alongside copper, it is a component of Brass.": "Como todos los minerales metálicos, el zinc en bruto que suelta este bloque debe fundirse antes de usarse. Junto con el cobre, es un componente del latón.",
+  "The Aether variety of gold ore, this shiny, warm metal is prized by players and Piglins alike. Among other uses, it can be made into the healthy Golden Carrot and Golden Apple.": "La variedad de mineral de oro del Aether; este metal brillante y cálido es apreciado tanto por los jugadores como por los piglins. Entre otros usos, puede convertirse en la saludable zanahoria de oro y la manzana de oro.",
+  "The Aether: Overworld Ores Resources": "The Aether: Recursos de minerales del Overworld",
+  "The copper dropped by this ore can be made into dozens of different building blocks, each of which oxidize over time. Oxidization can be sped up in contact with rain or water.": "El cobre que suelta este mineral puede convertirse en docenas de bloques de construcción diferentes, cada uno de los cuales se oxida con el tiempo. La oxidación puede acelerarse en contacto con la lluvia o el agua.",
+  "This Aether ore smelts down into Silver Ingots, which is fit for industry and royalty alike.": "Este mineral del Aether se funde en lingotes de plata, los cuales son adecuados tanto para la industria como para la realeza.",
+  "This is a rare ore that is only found in groups of one. Emeralds can be sold to and bought from Villagers and have few other uses.": "Este es un mineral raro que solo se encuentra en grupos de uno. Las esmeraldas se pueden vender y comprar a los aldeanos y tienen pocos otros usos.",
+  "This vibrant ore teems with potential, glowing when touched. Its Redstone Dust can be used to make contraptions.": "Este mineral vibrante rebosa potencial y emite luminiscencia al tocarlo. Su polvo de redstone se puede usar para crear mecanismos.",
+  "Uranium is a rare material filled with energy. Standing near this ore feels dangerous.": "El uranio es un material raro lleno de energía. Estar cerca de este mineral se siente peligroso."
  }
 }

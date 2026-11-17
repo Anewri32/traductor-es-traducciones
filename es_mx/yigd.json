@@ -1,0 +1,32 @@
+{
+ "revisadas": {},
+ "ia": {
+  "Block ID": "ID del bloque",
+  "Charge Time": "Tiempo de carga",
+  "Cooldown": "Tiempo de reutilización",
+  "Default Drop Rule for Cosmetic Armor (Reworked) Items": "Regla de caída predeterminada para ítems de Cosmetic Armor (Reworked)",
+  "Drop Rule Applied to Items": "Regla de soltado aplicada a los objetos",
+  "Element": "Elemento",
+  "Enable Loss from Modded Inventories": "Habilitar pérdida de inventarios de mods",
+  "Enable YiGD Soulbound Enchant": "Habilitar encantamiento vinculado al alma de YiGD",
+  "Grave Incompatibility": "Incompatibilidad con tumba",
+  "Grave failed to generate. Dropping items": "Error al generar la tumba. Soltando objetos",
+  "Handle Curse of Binding": "Manejar maldición de ligamiento",
+  "Item-loss immunity": "Inmunidad a la pérdida de ítems",
+  "Killer Skip Wait Time": "Tiempo de espera para omitir del asesino",
+  "Load Cosmetic Armor (Reworked) Compat?": "¿Cargar compatibilidad con Cosmetic Armor (Reworked)?",
+  "Minimum Grave Y-Coordinate": "Coordenada y mínima de la tumba",
+  "Natural Soulbound": "Vinculado al alma natural",
+  "Natural Vanishing": "Desvanecimiento natural",
+  "Replace Grave Blacklist": "Lista negra de reemplazo de tumba",
+  "Required Item Count": "Cantidad de ítems requerida",
+  "Soft-replace Whitelist": "Lista blanca de reemplazo suave",
+  "Soulbindable": "Vinculable al alma",
+  "Strict-keep Blacklist": "Lista negra de mantenimiento estricto",
+  "Try Generate On Ground": "Intentar generar en el suelo",
+  "Vanishing": "Desvanecimiento",
+  "Weighted Selection": "Selección ponderada",
+  "World ID": "ID del mundo",
+  "Your grave has been relocated to X: %d / Y: %d / Z: %d / %s": "Tu tumba ha sido reubicada en X: %d / Y: %d / Z: %d / %s"
+ }
+}

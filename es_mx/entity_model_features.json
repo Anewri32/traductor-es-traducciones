@@ -1,0 +1,9 @@
+{
+ "revisadas": {},
+ "ia": {
+  "Parrot shoulder follows player animations": "El hombro del loro sigue las animaciones del jugador",
+  "Sulfur Cube block default animation": "Animación predeterminada del bloque Cubo de sulfuro",
+  "Will automatically make Sulfur Cube internal blocks animate by default, this is equivalent to having a 'sulfur_cube_block' attachment in the model's 'cube' part with offset 0,0,0.": "Harán que los bloques internos del Cubo de sulfuro animen automáticamente por defecto, esto equivale a tener un punto de unión 'sulfur_cube_block' en la parte 'cube' del modelo con desplazamiento 0,0,0.",
+  "Will automatically make parrot shoulder position follow the animated player position by default, this is not equivalent to the `parrot_left` and `parrot_right` attachment points as these will not rotate.": "Harán que la posición del hombro del loro siga la posición animada del jugador por defecto, esto no equivale a los puntos de unión `parrot_left` y `parrot_right` ya que estos no rotarán."
+ }
+}

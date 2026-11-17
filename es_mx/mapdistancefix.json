@@ -1,0 +1,22 @@
+{
+ "revisadas": {},
+ "ia": {
+  "Also show distance when player is within map boundaries": "También muestra la distancia cuando el/la jugador(a) está dentro de los límites del mapa",
+  "Display distance when player is outside map boundaries": "Muestra la distancia cuando el/la jugador(a) está fuera de los límites del mapa",
+  "Distance Format": "Formato de distancia",
+  "Distance in blocks at which to start using short units": "Distancia en bloques a partir de la cual se empiezan a usar unidades cortas",
+  "Format string for distance display. Use ％d for the distance value.\nExample: \"％dm\" displays as \"100m\"": "Cadena de formato para mostrar la distancia. Usa ％d para el valor de la distancia.\nEjemplo: \"％dm\" se muestra como \"100m\"",
+  "Formatting": "Formato",
+  "General": "General",
+  "Map Distance Fix Settings": "Ajustes de Map Distance Fix",
+  "Short Unit Threshold": "Límite de unidades cortas",
+  "Show Distance": "Mostrar distancia",
+  "Show Distance Inside Boundaries": "Mostrar distancia dentro de los límites",
+  "Show Distance When Off Map": "Mostrar distancia fuera del mapa",
+  "Show Distance to Nearest Structure": "Mostrar distancia a la estructura más cercana",
+  "Show distance to map center on player icons": "Muestra la distancia al centro del mapa en los iconos de jugador(a)",
+  "Show distance to the nearest structure (mansion, monument, village, etc.) below the player arrow instead of distance to the map center": "Muestra la distancia a la estructura más cercana (mansión, monumento, aldea, etc.) debajo de la flecha de jugador(a) en lugar de la distancia al centro del mapa",
+  "Use Short Units": "Usar unidades cortas",
+  "Use abbreviated units (e.g., \"1.5k\" instead of \"1500m\") for large distances": "Usa unidades abreviadas (p. ej., \"1.5k\" en lugar de \"1500m\") para distancias grandes"
+ }
+}

@@ -1,0 +1,17 @@
+{
+ "revisadas": {},
+ "ia": {
+  "A": "A",
+  "Alt": "Alt",
+  "C": "C",
+  "Control": "Control",
+  "Ctrl": "Ctrl",
+  "S": "S",
+  "Scroll Down": "Desplazar hacia abajo",
+  "Scroll Left": "Desplazar a la izquierda",
+  "Scroll Right": "Desplazar a la derecha",
+  "Scroll Up": "Desplazar hacia arriba",
+  "Shft": "Mayús",
+  "Shift": "Shift"
+ }
+}

@@ -1,0 +1,28 @@
+{
+ "revisadas": {},
+ "ia": {
+  "A bright Yellow Cape that is crafted using Yellow Wool.": "Una brillante Capa Amarilla que se fabrica usando Lana amarilla.",
+  "A decorative banner with the likeness of a Swet. By placing this down you can prevent them from appearing around your home.": "Un estandarte decorativo con la imagen de un Swet. Al colocarlo, puedes evitar que aparezcan cerca de tu hogar.",
+  "A music disc that plays \"Slider's Wrath\" by sunsette.": "Un Disco que reproduce \"Slider's Wrath\" de sunsette.",
+  "A music disc that plays \"klepto\" by sunsette.": "Un Disco que reproduce \"klepto\" de sunsette.",
+  "A treasure found in Silver Dungeons. This stone makes the wearer feel healthy and heals their wounds. The effects can stack with other Regeneration Stones.": "Un tesoro encontrado en las mazmorras de plata. Esta piedra hace que quien la porta se sienta saludable y cura sus heridas. Los efectos pueden acumularse con otras Piedras de regeneración.",
+  "Configures what dimensions are able to have their time changed by the Sun Altar": "Configura qué dimensiones pueden cambiar su hora mediante el Altar Solar",
+  "Crafted from Holystone, a Pressure Plate used to activate mechanisms and redstone.": "Fabricada con Piedra sagrada, una placa de presión usada para activar mecanismos y redstone.",
+  "Crafted from Skyroot Planks. A wooden Pressure Plate used to activate mechanisms and redstone.": "Fabricada con Tablas de raicielo. Una placa de presión de madera usada para activar mecanismos y redstone.",
+  "Crafted from Stripped Skyroot Logs and Chains. A helpful sign perfect for writing messages and directions on.": "Fabricado con troncos de raicielo sin corteza y cadenas. Un letrero útil, perfecto para escribir mensajes e indicaciones.",
+  "Cures and grants immunity to inebriation.": "Cura y otorga inmunidad a la embriaguez.",
+  "Deter Aechor Plants by planting a flower on Enchanted Grass": "Disuade a las plantas Aechor plantando una flor en pasto encantado",
+  "Deter Swets by placing down a Swet Banner": "Disuade a los Swets colocando un estandarte de Swet",
+  "Determines whether Holiday Trees should be able to generate during the time frame of December and January when exploring new chunks in the Aether, only works if 'Generate Holiday Trees always' is set to false": "Determina si los árboles festivos deben generarse durante el periodo de diciembre y enero al explorar nuevos fragmentos en Aether, solo funciona si 'Generar árboles festivos siempre' está desactivado",
+  "Determines whether bosses should display a randomized name above their boss bar": "Determina si los jefes deben mostrar un nombre aleatorio sobre su barra de jefe",
+  "Disables the Aether's boss fight music, only works if 'Disables Aether music manager' is false": "Desactiva la música de jefe de Aether, solo funciona si 'Desactivar gestor de música de Aether' está desactivado",
+  "Enables a direct join button for the official server": "Activa un botón de unión directa para el servidor oficial",
+  "Enables the overlay at the top of the screen for the Hammer of Kingbdogz' cooldown": "Activa la superposición en la parte superior de la pantalla para el tiempo de reutilización del Martillo de Kingbdogz",
+  "Inflicts damage over time and causes random movement.": "Inflige daño con el tiempo y causa movimiento aleatorio.",
+  "Makes Blue Aerclouds have their wobbly sounds that play when bouncing on them": "Hace que las aerocubetas azules tengan sus sonidos tambaleantes al rebotar en ellas",
+  "Makes Crystal Fruit Leaves behave consistently with Sweet Berry Bushes": "Hace que las Hojas de fruta de cristal se comporten de manera consistente con los arbustos de bayas dulces",
+  "Makes armor abilities depend on wearing the respective gloves belonging to an armor set": "Hace que las habilidades de la armadura dependan de usar los guantes respectivos que pertenecen a un conjunto de armadura",
+  "Moves the message for when a player attacks the Slider with an incorrect item to be above the hotbar instead of in chat": "Mueve el mensaje que aparece cuando un jugador ataca al Deslizante con un ítem incorrecto para que aparezca sobre la barra de acceso rápido en lugar del chat",
+  "Your %s cannot be used in this environment.": "Tu %s no puede usarse en este entorno."
+ }
+}

@@ -1,0 +1,6 @@
+{
+ "revisadas": {},
+ "ia": {
+  "Failed to process config from server: %s": "Error al procesar la configuración del servidor: %s"
+ }
+}

@@ -1,0 +1,18 @@
+{
+ "revisadas": {},
+ "ia": {
+  "Algorithm": "Algoritmo",
+  "Font Brightness": "Brillo de fuente",
+  "Grayscale And HSL": "Escala de grises y HSL",
+  "Grayscale And HSP": "Escala de grises y HSP",
+  "Grayscale And HSV": "Escala de grises y HSV",
+  "Grayscale And Linear": "Escala de grises y lineal",
+  "HSL": "HSL",
+  "HSP": "HSP",
+  "HSV": "HSV",
+  "Interface Darkness": "Oscuridad de la interfaz",
+  "Linear": "Lineal",
+  "Menu Type: %s": "Tipo de menú: %s",
+  "Screen Identifier: %s": "Identificador de pantalla: %s"
+ }
+}

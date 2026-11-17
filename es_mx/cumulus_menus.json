@@ -1,0 +1,13 @@
+{
+ "revisadas": {},
+ "ia": {
+  "Adds a button to the top right of the main menu screen to open a menu selection screen": "Añade un botón en la esquina superior derecha de la pantalla del menú principal para abrir una pantalla de selección de menú",
+  "Choose a Main Menu": "Elige un menú principal",
+  "Cumulus Resources": "Recursos de Cumulus",
+  "Determines whether the Menu API is enabled or not": "Determina si la API del menú está activada o no",
+  "Launch Menu": "Iniciar menú",
+  "Menu List": "Lista de menús",
+  "Minecraft": "Minecraft",
+  "Sets the current active menu title screen": "Define la pantalla de título del menú activo actualmente"
+ }
+}

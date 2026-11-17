@@ -1,0 +1,11 @@
+{
+ "revisadas": {},
+ "ia": {
+  "Horizontal rendering offset": "Desplazamiento horizontal de renderizado",
+  "If enabled, renders the equipped totem on players.": "Si está activado, muestra el tótem equipado en el jugador.",
+  "Render equipped totem": "Mostrar tótem equipado",
+  "The horizontal offset for rendering the totem on the player.": "El desplazamiento horizontal para mostrar el tótem en el jugador.",
+  "The vertical offset for rendering the totem on the player.": "El desplazamiento vertical para mostrar el tótem en el jugador.",
+  "Vertical rendering offset": "Desplazamiento vertical de renderizado"
+ }
+}

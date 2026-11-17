@@ -1,0 +1,13 @@
+{
+ "revisadas": {},
+ "ia": {
+  " Recommended %s for your system is lower than the required minimum of %s MB for this pack. You may experience issues like frequent stutters.\n": " La cantidad recomendada (%s) para tu sistema es menor que el mínimo requerido de %s MB para este modpack. Es posible que experimentes problemas como tirones frecuentes.\n",
+  "Less memory allocated (%s MB) than recommended for this pack, minimum is: %s MB. Recommended amount for your system is:  %s MB.\n": "Hay menos memoria asignada (%s MB) de la recomendada para este modpack, el mínimo es: %s MB. La cantidad recomendada para tu sistema es: %s MB.\n",
+  "Less memory allocated (%s MB) than recommended for your system, recommended is: %s MB.\n": "Hay menos memoria asignada (%s MB) de la recomendada para tu sistema, la recomendada es: %s MB.\n",
+  "More memory allocated (%s MB) than recommended for this pack, maximum is: %s MB.Recommended amount for your system is: %s MB.\n": "Hay más memoria asignada (%s MB) de la recomendada para este modpack, el máximo es: %s MB. La cantidad recomendada para tu sistema es: %s MB.\n",
+  "More memory allocated (%s MB) than recommended for your system, recommended is: %s MB.\n": "Hay más memoria asignada (%s MB) de la recomendada para tu sistema, la recomendada es: %s MB.\n",
+  "Open guide": "Abrir guía",
+  "Stop showing": "Dejar de mostrar",
+  "You're using 32bit java on a 64bit system, please install 64bit java.": "Estás usando Java de 32 bits en un sistema de 64 bits, por favor instala Java de 64 bits."
+ }
+}

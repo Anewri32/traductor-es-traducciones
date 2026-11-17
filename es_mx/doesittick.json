@@ -1,0 +1,7 @@
+{
+ "revisadas": {},
+ "ia": {
+  "Does It Tick is installed but FTB Chunks is not. If you find your mob farm not working when you are far from it, try to install FTB Chunks / OPAC and claim the chunks of it. You can disable this message in Does It Tick's config": "Does It Tick está instalado pero FTB Chunks no lo está. Si notas que tu granja de mobs no funciona cuando estás lejos de ella, intenta instalar FTB Chunks / OPAC y reclamar sus chunks. Puedes desactivar este mensaje en la configuración de Does It Tick",
+  "Does It Tick is installed in this server. If you find your mob farm not working when you are far from it, try to use FTB Chunks / OPAC to claim the chunks of it. You can disable this message in Does It Tick's config": "Does It Tick está instalado en este servidor. Si notas que tu granja de mobs no funciona cuando estás lejos de ella, intenta usar FTB Chunks / OPAC para reclamar sus chunks. Puedes desactivar este mensaje en la configuración de Does It Tick"
+ }
+}
