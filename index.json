@@ -1751,45 +1751,85 @@
    "revisadas": 0,
    "ia": 79
   },
+  "es_mx/@citadel__citadel__citadel_book.json": {
+   "hash": "a11d609802613068",
+   "revisadas": 0,
+   "ia": 22
+  },
+  "es_mx/@patchouli__twilightdelight__twilight_guide.json": {
+   "hash": "22b97a1d924bc901",
+   "revisadas": 0,
+   "ia": 44
+  },
+  "es_mx/advancednetherite.json": {
+   "hash": "9611be3e30eea4f5",
+   "revisadas": 0,
+   "ia": 3
+  },
+  "es_mx/aether.json": {
+   "hash": "ff8b6b7b794d1559",
+   "revisadas": 0,
+   "ia": 23
+  },
+  "es_mx/aether_emissivity.json": {
+   "hash": "424372351d8899c9",
+   "revisadas": 0,
+   "ia": 4
+  },
+  "es_mx/aether_enhanced_extinguishing.json": {
+   "hash": "03ee31f9c353b455",
+   "revisadas": 0,
+   "ia": 1
+  },
   "es_mx/aether_genesis.json": {
    "hash": "697f190cecbb92fe",
    "revisadas": 0,
    "ia": 2
   },
   "es_mx/aether_overworld_ores.json": {
-   "hash": "f8d928602884d0ff",
+   "hash": "f88ade87765a30ab",
    "revisadas": 0,
-   "ia": 15
+   "ia": 30
   },
   "es_mx/aether_protect_your_moa.json": {
-   "hash": "8234ca064cc72bbb",
+   "hash": "12723b3fbcd9c0b1",
    "revisadas": 0,
-   "ia": 6
+   "ia": 14
   },
   "es_mx/aether_redux.json": {
-   "hash": "e19625f55d9cbcc4",
+   "hash": "1da08284153b9c48",
    "revisadas": 0,
-   "ia": 366
+   "ia": 872
   },
   "es_mx/aether_treasure_reforging.json": {
-   "hash": "8ec9e63613f8b20c",
+   "hash": "80ec128f1411585d",
    "revisadas": 0,
-   "ia": 5
+   "ia": 31
   },
   "es_mx/aetherdelight.json": {
-   "hash": "3d2d8232a037c9d5",
+   "hash": "e4a569277dcc8986",
    "revisadas": 0,
-   "ia": 34
+   "ia": 36
+  },
+  "es_mx/amecsapi.json": {
+   "hash": "2b1006e743eacf46",
+   "revisadas": 0,
+   "ia": 12
   },
   "es_mx/amendments.json": {
-   "hash": "fbd06e0ba91d07e0",
+   "hash": "3148089cbfda1ec3",
    "revisadas": 0,
-   "ia": 3
+   "ia": 4
   },
   "es_mx/ascended_quark.json": {
-   "hash": "e8883aa992d01091",
+   "hash": "463e7da61ab89ce7",
    "revisadas": 0,
-   "ia": 137
+   "ia": 237
+  },
+  "es_mx/audio_improvements.json": {
+   "hash": "78344619d8657a10",
+   "revisadas": 0,
+   "ia": 51
   },
   "es_mx/autumnity.json": {
    "hash": "a022579758ffa59d",
@@ -1797,102 +1837,1022 @@
    "ia": 1
   },
   "es_mx/baguettelib.json": {
-   "hash": "6e05bbdcd13f51c3",
-   "revisadas": 0,
-   "ia": 2
-  },
-  "es_mx/barteringstation.json": {
-   "hash": "536b5419a01d139c",
-   "revisadas": 0,
-   "ia": 1
-  },
-  "es_mx/betterend.json": {
-   "hash": "9dc78abb7ae2c6b3",
-   "revisadas": 0,
-   "ia": 91
-  },
-  "es_mx/betternether.json": {
-   "hash": "9ee13790ddf287b7",
-   "revisadas": 0,
-   "ia": 654
-  },
-  "es_mx/blue_skies.json": {
-   "hash": "b261b176e6b8d6ee",
-   "revisadas": 0,
-   "ia": 39
-  },
-  "es_mx/bountiful.json": {
-   "hash": "049f9b2dfddfef5c",
-   "revisadas": 0,
-   "ia": 1
-  },
-  "es_mx/bygonenether.json": {
-   "hash": "e81339c054802a08",
-   "revisadas": 0,
-   "ia": 8
-  },
-  "es_mx/cataclysm.json": {
-   "hash": "660cd5df50eb6527",
+   "hash": "540664c60b13b86e",
    "revisadas": 0,
    "ia": 3
   },
+  "es_mx/barteringstation.json": {
+   "hash": "bbb80e743b85da06",
+   "revisadas": 0,
+   "ia": 2
+  },
+  "es_mx/bcc.json": {
+   "hash": "ce3609efb8ff3f14",
+   "revisadas": 0,
+   "ia": 2
+  },
+  "es_mx/bclib.json": {
+   "hash": "51d0277d1702f630",
+   "revisadas": 0,
+   "ia": 114
+  },
+  "es_mx/betterdeserttemples.json": {
+   "hash": "4d43382afc1637f7",
+   "revisadas": 0,
+   "ia": 4
+  },
+  "es_mx/betterend.json": {
+   "hash": "e1551d85b9f39a14",
+   "revisadas": 0,
+   "ia": 232
+  },
+  "es_mx/betterendisland.json": {
+   "hash": "b15e8feffadf23e2",
+   "revisadas": 0,
+   "ia": 2
+  },
+  "es_mx/betterfortresses.json": {
+   "hash": "bd6f34aaa0b58969",
+   "revisadas": 0,
+   "ia": 2
+  },
+  "es_mx/betterjungletemples.json": {
+   "hash": "e03242a02172ddaa",
+   "revisadas": 0,
+   "ia": 3
+  },
+  "es_mx/bettermenu.json": {
+   "hash": "83170152ebc170cd",
+   "revisadas": 0,
+   "ia": 12
+  },
+  "es_mx/bettermineshafts.json": {
+   "hash": "5c62a7d20a7d29d6",
+   "revisadas": 0,
+   "ia": 29
+  },
+  "es_mx/bettermodsbutton.json": {
+   "hash": "9fba9b7c7a06dd87",
+   "revisadas": 0,
+   "ia": 1
+  },
+  "es_mx/betternether.json": {
+   "hash": "0e3022e9f0c5e803",
+   "revisadas": 0,
+   "ia": 748
+  },
+  "es_mx/betteroceanmonuments.json": {
+   "hash": "377581d3246a48e4",
+   "revisadas": 0,
+   "ia": 2
+  },
+  "es_mx/betterstrongholds.json": {
+   "hash": "029661de9890e8e1",
+   "revisadas": 0,
+   "ia": 6
+  },
+  "es_mx/betterwitchhuts.json": {
+   "hash": "e115d88622548aa4",
+   "revisadas": 0,
+   "ia": 2
+  },
+  "es_mx/betterworldloading20.json": {
+   "hash": "2d760e2653985ede",
+   "revisadas": 0,
+   "ia": 3
+  },
+  "es_mx/bhmenu.json": {
+   "hash": "014edd56489989a1",
+   "revisadas": 0,
+   "ia": 5
+  },
+  "es_mx/blue_skies.json": {
+   "hash": "026336dd91e88a4c",
+   "revisadas": 0,
+   "ia": 57
+  },
+  "es_mx/bookshelf.json": {
+   "hash": "e457864afab05157",
+   "revisadas": 0,
+   "ia": 1
+  },
+  "es_mx/bountiful.json": {
+   "hash": "d214f750c2f0c17f",
+   "revisadas": 0,
+   "ia": 65
+  },
+  "es_mx/bygonenether.json": {
+   "hash": "d8a5ffe52532f457",
+   "revisadas": 0,
+   "ia": 12
+  },
+  "es_mx/caelus.json": {
+   "hash": "7eab2f2c49d10378",
+   "revisadas": 0,
+   "ia": 1
+  },
+  "es_mx/cataclysm.json": {
+   "hash": "e894610e4908907f",
+   "revisadas": 0,
+   "ia": 59
+  },
+  "es_mx/certain_questing_additions.json": {
+   "hash": "9baa3f5483ebbb0c",
+   "revisadas": 0,
+   "ia": 23
+  },
+  "es_mx/charmofundying.json": {
+   "hash": "b85c35ba53a01d14",
+   "revisadas": 0,
+   "ia": 6
+  },
+  "es_mx/chefsdelight.json": {
+   "hash": "57c809c8471b09e3",
+   "revisadas": 0,
+   "ia": 12
+  },
   "es_mx/chipped.json": {
-   "hash": "a09790d87ded6869",
+   "hash": "b5f7641577738594",
    "revisadas": 0,
-   "ia": 6844
+   "ia": 7254
   },
-  "es_mx/deep_aether.json": {
-   "hash": "d1d5803b88043f2a",
+  "es_mx/chunkactivitytracker.json": {
+   "hash": "6e9b0541ea39f0ae",
    "revisadas": 0,
-   "ia": 36
+   "ia": 1
   },
-  "es_mx/delightful.json": {
-   "hash": "d67a3200b79b67f6",
+  "es_mx/citadel.json": {
+   "hash": "a397547914563175",
+   "revisadas": 0,
+   "ia": 16
+  },
+  "es_mx/citresewn.json": {
+   "hash": "c0cce6f5a8cf2650",
+   "revisadas": 0,
+   "ia": 18
+  },
+  "es_mx/clientsort.json": {
+   "hash": "9ce6779b9682415a",
+   "revisadas": 0,
+   "ia": 193
+  },
+  "es_mx/collective.json": {
+   "hash": "ae5b1bfa6f8130a5",
+   "revisadas": 0,
+   "ia": 52
+  },
+  "es_mx/colorwheel.json": {
+   "hash": "88e10cc64d7b283e",
+   "revisadas": 0,
+   "ia": 22
+  },
+  "es_mx/comforts.json": {
+   "hash": "ff60af881fd704b2",
+   "revisadas": 0,
+   "ia": 35
+  },
+  "es_mx/conjurer_illager.json": {
+   "hash": "5513883f2a5bb470",
+   "revisadas": 0,
+   "ia": 4
+  },
+  "es_mx/continuity.json": {
+   "hash": "a9af1a8bd66c6cdd",
+   "revisadas": 0,
+   "ia": 4
+  },
+  "es_mx/crabbersdelight.json": {
+   "hash": "cccab41fe5c98b36",
+   "revisadas": 0,
+   "ia": 138
+  },
+  "es_mx/crawlondemand.json": {
+   "hash": "e7549f3d183aee99",
+   "revisadas": 0,
+   "ia": 2
+  },
+  "es_mx/cristellib.json": {
+   "hash": "870d93ff2eb490d5",
+   "revisadas": 0,
+   "ia": 1
+  },
+  "es_mx/cumulus_menus.json": {
+   "hash": "f54d3746b5d5ede2",
+   "revisadas": 0,
+   "ia": 8
+  },
+  "es_mx/curios.json": {
+   "hash": "5be00a3bd1f73502",
+   "revisadas": 0,
+   "ia": 10
+  },
+  "es_mx/decorative_blocks.json": {
+   "hash": "b6f7499a32c2ce94",
    "revisadas": 0,
    "ia": 7
   },
+  "es_mx/deep_aether.json": {
+   "hash": "708006a41eb6fecc",
+   "revisadas": 0,
+   "ia": 833
+  },
+  "es_mx/deeperdarker.json": {
+   "hash": "f0679a6d85284ac3",
+   "revisadas": 0,
+   "ia": 79
+  },
+  "es_mx/deleteworldstotrash.json": {
+   "hash": "8ea3584a6f347d02",
+   "revisadas": 0,
+   "ia": 7
+  },
+  "es_mx/delightful.json": {
+   "hash": "7858cba4c62beb42",
+   "revisadas": 0,
+   "ia": 174
+  },
+  "es_mx/despawntweaks.json": {
+   "hash": "fbd1cb47a19012de",
+   "revisadas": 0,
+   "ia": 2
+  },
   "es_mx/diagonalwallfix.json": {
-   "hash": "edf4098dbc79b2a6",
+   "hash": "cf0c85b2f9a2450f",
+   "revisadas": 0,
+   "ia": 4
+  },
+  "es_mx/distraction_free_recipes.json": {
+   "hash": "5a2a5fcd627aa1e7",
+   "revisadas": 0,
+   "ia": 3
+  },
+  "es_mx/doesittick.json": {
+   "hash": "2285965e1dc1a269",
+   "revisadas": 0,
+   "ia": 2
+  },
+  "es_mx/dragonloot.json": {
+   "hash": "d34e67b62cffc730",
+   "revisadas": 0,
+   "ia": 38
+  },
+  "es_mx/drippyloadingscreen.json": {
+   "hash": "7cd89b0c81ab2532",
+   "revisadas": 0,
+   "ia": 3
+  },
+  "es_mx/dungeons_arise.json": {
+   "hash": "cbedbc027696a618",
+   "revisadas": 0,
+   "ia": 78
+  },
+  "es_mx/easyanvils.json": {
+   "hash": "0a9525a10aed7220",
+   "revisadas": 0,
+   "ia": 2
+  },
+  "es_mx/easydisenchanting.json": {
+   "hash": "470c8d3a01e18457",
+   "revisadas": 0,
+   "ia": 3
+  },
+  "es_mx/elevatorid.json": {
+   "hash": "0f589b797f679f82",
+   "revisadas": 0,
+   "ia": 4
+  },
+  "es_mx/embeddium.json": {
+   "hash": "453e5b1b456fd6da",
+   "revisadas": 0,
+   "ia": 4
+  },
+  "es_mx/enchdesc.json": {
+   "hash": "538214e2d079a597",
+   "revisadas": 0,
+   "ia": 134
+  },
+  "es_mx/endersdelight.json": {
+   "hash": "557fc82776f644a0",
+   "revisadas": 0,
+   "ia": 40
+  },
+  "es_mx/entity_model_features.json": {
+   "hash": "c4fc63fc7a87c73a",
+   "revisadas": 0,
+   "ia": 4
+  },
+  "es_mx/entity_texture_features.json": {
+   "hash": "0c727367ec90feca",
+   "revisadas": 0,
+   "ia": 2
+  },
+  "es_mx/entityculling.json": {
+   "hash": "8bbde95f1f35a364",
+   "revisadas": 0,
+   "ia": 4
+  },
+  "es_mx/euphoria_patcher.json": {
+   "hash": "6954cfa2bf4a45d0",
    "revisadas": 0,
    "ia": 1
+  },
+  "es_mx/everycomp.json": {
+   "hash": "92f57f771a1ad9ac",
+   "revisadas": 0,
+   "ia": 159
+  },
+  "es_mx/example_mod.json": {
+   "hash": "203f4ab672e471d5",
+   "revisadas": 0,
+   "ia": 2
+  },
+  "es_mx/extra_compat.json": {
+   "hash": "d954d6be96e370f4",
+   "revisadas": 0,
+   "ia": 100
+  },
+  "es_mx/fabric-registry-sync-v0.json": {
+   "hash": "dc5f64a45427dea8",
+   "revisadas": 0,
+   "ia": 5
+  },
+  "es_mx/fabric-resource-loader-v0.json": {
+   "hash": "a4645619044f89d2",
+   "revisadas": 0,
+   "ia": 1
+  },
+  "es_mx/fallingtree.json": {
+   "hash": "6c05b80663d06fe1",
+   "revisadas": 0,
+   "ia": 101
+  },
+  "es_mx/fancymenu.json": {
+   "hash": "385337892a42f702",
+   "revisadas": 0,
+   "ia": 12
+  },
+  "es_mx/farmersdelight.json": {
+   "hash": "0f61a1388d531895",
+   "revisadas": 0,
+   "ia": 52
+  },
+  "es_mx/fastpaintings.json": {
+   "hash": "a5224dff00846207",
+   "revisadas": 0,
+   "ia": 1
+  },
+  "es_mx/flib.json": {
+   "hash": "a70c119ec1a6cd62",
+   "revisadas": 0,
+   "ia": 3
+  },
+  "es_mx/flywheel.json": {
+   "hash": "315cc938b56ae531",
+   "revisadas": 0,
+   "ia": 12
+  },
+  "es_mx/forgeconfigscreens.json": {
+   "hash": "73d04f730c3dc3a1",
+   "revisadas": 0,
+   "ia": 48
+  },
+  "es_mx/formations.json": {
+   "hash": "21cf75c151a96d25",
+   "revisadas": 0,
+   "ia": 33
+  },
+  "es_mx/framework.json": {
+   "hash": "89df39e3120720c7",
+   "revisadas": 0,
+   "ia": 1
+  },
+  "es_mx/friendsandfoes.json": {
+   "hash": "2c352abb984b235b",
+   "revisadas": 0,
+   "ia": 61
+  },
+  "es_mx/ftbfiltersystem.json": {
+   "hash": "4746c2b81b6ed68e",
+   "revisadas": 0,
+   "ia": 59
+  },
+  "es_mx/ftblibrary.json": {
+   "hash": "e6d802c0a436ca7e",
+   "revisadas": 0,
+   "ia": 42
+  },
+  "es_mx/ftbquests.json": {
+   "hash": "7dba845d4db9504e",
+   "revisadas": 0,
+   "ia": 34
+  },
+  "es_mx/ftbteams.json": {
+   "hash": "1514d4ae7b5357c6",
+   "revisadas": 0,
+   "ia": 1
+  },
+  "es_mx/fzzy_config.json": {
+   "hash": "c86b30f140acb9f2",
+   "revisadas": 0,
+   "ia": 4
+  },
+  "es_mx/gallery.json": {
+   "hash": "c175fc0be3d990bd",
+   "revisadas": 0,
+   "ia": 23
+  },
+  "es_mx/galosphere.json": {
+   "hash": "13f6df3e6aaa3a98",
+   "revisadas": 0,
+   "ia": 133
+  },
+  "es_mx/gardens_of_the_dead.json": {
+   "hash": "0e4a9a2e6578276b",
+   "revisadas": 0,
+   "ia": 2
+  },
+  "es_mx/geckolib.json": {
+   "hash": "a9de59ba97ff11b1",
+   "revisadas": 0,
+   "ia": 4
   },
   "es_mx/glow_up.json": {
-   "hash": "e7322324f4289809",
+   "hash": "6c0edc0c05d5bd1a",
    "revisadas": 0,
-   "ia": 1
+   "ia": 54
+  },
+  "es_mx/gnetum.json": {
+   "hash": "160c15e30d047e71",
+   "revisadas": 0,
+   "ia": 56
+  },
+  "es_mx/guardvillagers.json": {
+   "hash": "079c32c8f10ffde4",
+   "revisadas": 0,
+   "ia": 3
   },
   "es_mx/handcrafted.json": {
-   "hash": "759d3058e8529bb4",
+   "hash": "6d5f0532a0a95322",
    "revisadas": 0,
-   "ia": 11
+   "ia": 348
+  },
+  "es_mx/hapi.json": {
+   "hash": "a6ad8724477866ca",
+   "revisadas": 0,
+   "ia": 4
+  },
+  "es_mx/hearth_and_home.json": {
+   "hash": "a4f6e738f498057c",
+   "revisadas": 0,
+   "ia": 3
+  },
+  "es_mx/hearthandharvest.json": {
+   "hash": "0b03b67177b208c0",
+   "revisadas": 0,
+   "ia": 1
   },
   "es_mx/hybrid_aquatic.json": {
-   "hash": "3ef20303f998922f",
+   "hash": "49249896f928f10e",
    "revisadas": 0,
-   "ia": 11
+   "ia": 934
+  },
+  "es_mx/hybrid_birds.json": {
+   "hash": "e43fd15640a6a174",
+   "revisadas": 0,
+   "ia": 72
+  },
+  "es_mx/hybrid_delights.json": {
+   "hash": "a739626fecab3bbb",
+   "revisadas": 0,
+   "ia": 98
+  },
+  "es_mx/illagerinvasion.json": {
+   "hash": "f5b76e28bea68c79",
+   "revisadas": 0,
+   "ia": 94
+  },
+  "es_mx/immersivelanterns.json": {
+   "hash": "8aedf7d21d9416b5",
+   "revisadas": 0,
+   "ia": 5
+  },
+  "es_mx/incubation.json": {
+   "hash": "279c1de803726cd4",
+   "revisadas": 0,
+   "ia": 3
+  },
+  "es_mx/inmis.json": {
+   "hash": "9dfa2ded0e741134",
+   "revisadas": 0,
+   "ia": 74
+  },
+  "es_mx/iris.json": {
+   "hash": "a644ca2ff033957b",
+   "revisadas": 0,
+   "ia": 8
+  },
+  "es_mx/itemfilters.json": {
+   "hash": "7c1e81ddaf48b7c8",
+   "revisadas": 0,
+   "ia": 10
+  },
+  "es_mx/jade.json": {
+   "hash": "b880bea3b9feacaf",
+   "revisadas": 0,
+   "ia": 250
+  },
+  "es_mx/jadeaddons.json": {
+   "hash": "e0be739e5e745259",
+   "revisadas": 0,
+   "ia": 32
+  },
+  "es_mx/jei.json": {
+   "hash": "35e2bfba2949c043",
+   "revisadas": 0,
+   "ia": 34
+  },
+  "es_mx/jeresources.json": {
+   "hash": "c848e2539532cf8a",
+   "revisadas": 0,
+   "ia": 4
+  },
+  "es_mx/justenoughprofessions.json": {
+   "hash": "a9e7f082c7a6dab9",
+   "revisadas": 0,
+   "ia": 1
+  },
+  "es_mx/justzoom.json": {
+   "hash": "1861d715a9619819",
+   "revisadas": 0,
+   "ia": 1
+  },
+  "es_mx/kiwi.json": {
+   "hash": "96eea0dfd96070fd",
+   "revisadas": 0,
+   "ia": 49
+  },
+  "es_mx/kleeslabs.json": {
+   "hash": "0c8107b14373f289",
+   "revisadas": 0,
+   "ia": 4
+  },
+  "es_mx/l2library.json": {
+   "hash": "1c5c867b5ef50ec4",
+   "revisadas": 0,
+   "ia": 3
+  },
+  "es_mx/leaderboards.json": {
+   "hash": "7b74ae6ac1c1d9e7",
+   "revisadas": 0,
+   "ia": 87
+  },
+  "es_mx/lionfishapi.json": {
+   "hash": "491c771999a6065e",
+   "revisadas": 0,
+   "ia": 4
+  },
+  "es_mx/lost_aether_content.json": {
+   "hash": "2f92ac61ee6e497d",
+   "revisadas": 0,
+   "ia": 23
+  },
+  "es_mx/magnumtorch.json": {
+   "hash": "96a70eb5544c96c5",
+   "revisadas": 0,
+   "ia": 13
+  },
+  "es_mx/mapdistancefix.json": {
+   "hash": "60a0087068816523",
+   "revisadas": 0,
+   "ia": 17
+  },
+  "es_mx/mediumcore.json": {
+   "hash": "f3b748a3cc75d4bd",
+   "revisadas": 0,
+   "ia": 3
+  },
+  "es_mx/memorysettings.json": {
+   "hash": "1ac1d3598fb9dc02",
+   "revisadas": 0,
+   "ia": 8
+  },
+  "es_mx/mes.json": {
+   "hash": "7042c5924bd21385",
+   "revisadas": 0,
+   "ia": 7
+  },
+  "es_mx/mezz_config.json": {
+   "hash": "7d8a89e5ef74bbcf",
+   "revisadas": 0,
+   "ia": 18
+  },
+  "es_mx/midnightlib.json": {
+   "hash": "116ef0797cca7587",
+   "revisadas": 0,
+   "ia": 3
+  },
+  "es_mx/mindfuldarkness.json": {
+   "hash": "4ec18c6d4897386b",
+   "revisadas": 0,
+   "ia": 13
+  },
+  "es_mx/minecraft.json": {
+   "hash": "ae96055f63634aa6",
+   "revisadas": 0,
+   "ia": 98
+  },
+  "es_mx/mmv.json": {
+   "hash": "55a244c6e23e2d33",
+   "revisadas": 0,
+   "ia": 7
+  },
+  "es_mx/mns.json": {
+   "hash": "7311baf22618800b",
+   "revisadas": 0,
+   "ia": 7
+  },
+  "es_mx/modernfix.json": {
+   "hash": "673ebc374f3e7fda",
+   "revisadas": 0,
+   "ia": 23
+  },
+  "es_mx/modpack-update-checker.json": {
+   "hash": "4fcafdf9ac818594",
+   "revisadas": 0,
+   "ia": 48
+  },
+  "es_mx/moogs_structures.json": {
+   "hash": "08294ae6af7551ba",
+   "revisadas": 0,
+   "ia": 14
+  },
+  "es_mx/moonlight.json": {
+   "hash": "7a8f7723b9e50e03",
+   "revisadas": 0,
+   "ia": 1
+  },
+  "es_mx/mowzies_cataclysm.json": {
+   "hash": "0f7099f2dcc7cbcd",
+   "revisadas": 0,
+   "ia": 5
+  },
+  "es_mx/mowziesmobs.json": {
+   "hash": "54fe023147701d28",
+   "revisadas": 0,
+   "ia": 72
+  },
+  "es_mx/mvs.json": {
+   "hash": "dc37e258a2444ad9",
+   "revisadas": 0,
+   "ia": 7
+  },
+  "es_mx/mynethersdelight.json": {
+   "hash": "cbba97fb8ae2de81",
+   "revisadas": 0,
+   "ia": 6
+  },
+  "es_mx/nbtac.json": {
+   "hash": "630ca30dcb8187b4",
+   "revisadas": 0,
+   "ia": 78
+  },
+  "es_mx/neruina.json": {
+   "hash": "2d8a2b7b27a600be",
+   "revisadas": 0,
+   "ia": 88
+  },
+  "es_mx/netherchested.json": {
+   "hash": "615546afb370b7c6",
+   "revisadas": 0,
+   "ia": 2
+  },
+  "es_mx/netherexp.json": {
+   "hash": "44c2010c41598fc1",
+   "revisadas": 0,
+   "ia": 4
+  },
+  "es_mx/netherportalfix.json": {
+   "hash": "6174ab7f6d2c50af",
+   "revisadas": 0,
+   "ia": 1
+  },
+  "es_mx/nitrogen_internals.json": {
+   "hash": "9d5af68e5dc2a0d6",
+   "revisadas": 0,
+   "ia": 6
+  },
+  "es_mx/nochatreports.json": {
+   "hash": "5ef03ed7842840e2",
+   "revisadas": 0,
+   "ia": 67
+  },
+  "es_mx/notenoughanimations.json": {
+   "hash": "e91f2a9ccc1912e8",
+   "revisadas": 0,
+   "ia": 53
+  },
+  "es_mx/oceansdelight.json": {
+   "hash": "0f9c11e2be1217cc",
+   "revisadas": 0,
+   "ia": 23
+  },
+  "es_mx/oldcannons.json": {
+   "hash": "880c5da617c6ec9b",
+   "revisadas": 0,
+   "ia": 1
+  },
+  "es_mx/openpartiesandclaims.json": {
+   "hash": "8863612801958732",
+   "revisadas": 0,
+   "ia": 540
+  },
+  "es_mx/particle_core.json": {
+   "hash": "f9982b1c7c696deb",
+   "revisadas": 0,
+   "ia": 37
+  },
+  "es_mx/particle_effects.json": {
+   "hash": "588cb189606291a5",
+   "revisadas": 0,
+   "ia": 10
+  },
+  "es_mx/patchouli.json": {
+   "hash": "7d790419965ab6a2",
+   "revisadas": 0,
+   "ia": 1
   },
   "es_mx/philipsruins.json": {
-   "hash": "b02baa0e8d6ffd63",
+   "hash": "f80257e8c5767640",
+   "revisadas": 0,
+   "ia": 35
+  },
+  "es_mx/pingwheel.json": {
+   "hash": "0b5972a16055fd8d",
    "revisadas": 0,
    "ia": 1
+  },
+  "es_mx/puzzlesapi.json": {
+   "hash": "1fbebe78fa27405a",
+   "revisadas": 0,
+   "ia": 98
+  },
+  "es_mx/quark.json": {
+   "hash": "3d747ae4551fa770",
+   "revisadas": 0,
+   "ia": 287
+  },
+  "es_mx/raided.json": {
+   "hash": "1c293af1c7ad36a6",
+   "revisadas": 0,
+   "ia": 32
+  },
+  "es_mx/repurposed_structures.json": {
+   "hash": "a8722e0caa2cdda8",
+   "revisadas": 0,
+   "ia": 2
+  },
+  "es_mx/resetcontrolsconfirmation.json": {
+   "hash": "93e32e3ae79ce17a",
+   "revisadas": 0,
+   "ia": 2
+  },
+  "es_mx/resourcepackoverrides.json": {
+   "hash": "b9de84c4c8e76bd6",
+   "revisadas": 0,
+   "ia": 9
+  },
+  "es_mx/revampedwolf.json": {
+   "hash": "bf226184f6e69a55",
+   "revisadas": 0,
+   "ia": 1
+  },
+  "es_mx/sawmill.json": {
+   "hash": "1f5550a1bac5c4ad",
+   "revisadas": 0,
+   "ia": 4
+  },
+  "es_mx/sdrp.json": {
+   "hash": "c1e20ac6f992af47",
+   "revisadas": 0,
+   "ia": 8
+  },
+  "es_mx/sereneseasons.json": {
+   "hash": "23b1cc06ac925698",
+   "revisadas": 0,
+   "ia": 1
+  },
+  "es_mx/serverbrowser.json": {
+   "hash": "9396858fd2e908bf",
+   "revisadas": 0,
+   "ia": 8
+  },
+  "es_mx/shieldexp.json": {
+   "hash": "bd8d93cdbe0080b9",
+   "revisadas": 0,
+   "ia": 31
+  },
+  "es_mx/shippy_ships.json": {
+   "hash": "9fa2c29510e0dd5b",
+   "revisadas": 0,
+   "ia": 3
+  },
+  "es_mx/sodium.json": {
+   "hash": "c99eae2f5d2105f5",
+   "revisadas": 0,
+   "ia": 179
+  },
+  "es_mx/sodiumdynamiclights.json": {
+   "hash": "06aaaca0971f27ec",
+   "revisadas": 0,
+   "ia": 15
+  },
+  "es_mx/soulfulnether.json": {
+   "hash": "b8c9fad0a65253d7",
+   "revisadas": 0,
+   "ia": 2
+  },
+  "es_mx/sound_physics_remastered.json": {
+   "hash": "3b83aa40f435ca02",
+   "revisadas": 0,
+   "ia": 2
+  },
+  "es_mx/spawnersplus.json": {
+   "hash": "11041250a2f52179",
+   "revisadas": 0,
+   "ia": 20
   },
   "es_mx/stalwart_dungeons.json": {
-   "hash": "1b1ea4e0d900d1cc",
+   "hash": "65d3f39a66989188",
+   "revisadas": 0,
+   "ia": 116
+  },
+  "es_mx/stoneworks.json": {
+   "hash": "12c017703e0155b0",
+   "revisadas": 0,
+   "ia": 582
+  },
+  "es_mx/storagenetwork.json": {
+   "hash": "d79daebda8c8c3c2",
+   "revisadas": 0,
+   "ia": 153
+  },
+  "es_mx/structure_gel.json": {
+   "hash": "ece2c1bd42df4e86",
+   "revisadas": 0,
+   "ia": 151
+  },
+  "es_mx/structure_layout_optimizer.json": {
+   "hash": "a04c8fccdf572934",
+   "revisadas": 0,
+   "ia": 2
+  },
+  "es_mx/stylisheffects.json": {
+   "hash": "6c94e710362270b9",
    "revisadas": 0,
    "ia": 1
   },
-  "es_mx/stoneworks.json": {
-   "hash": "544a6d4688a8ec07",
+  "es_mx/subtle_effects.json": {
+   "hash": "07b69ce30c1ae8a2",
    "revisadas": 0,
-   "ia": 58
+   "ia": 416
+  },
+  "es_mx/supplementaries.json": {
+   "hash": "d7738e029002c063",
+   "revisadas": 0,
+   "ia": 53
+  },
+  "es_mx/suppsquared.json": {
+   "hash": "4014449d3cb023e6",
+   "revisadas": 0,
+   "ia": 1
+  },
+  "es_mx/takesapillage.json": {
+   "hash": "afd3967b2696e8b7",
+   "revisadas": 0,
+   "ia": 43
+  },
+  "es_mx/tipsmod.json": {
+   "hash": "07127a51373a840f",
+   "revisadas": 0,
+   "ia": 5
+  },
+  "es_mx/tradingpost.json": {
+   "hash": "8ca5410437703740",
+   "revisadas": 0,
+   "ia": 4
+  },
+  "es_mx/trender.json": {
+   "hash": "4e0454dd080ea2e6",
+   "revisadas": 0,
+   "ia": 10
+  },
+  "es_mx/twigs.json": {
+   "hash": "6645a53891658e9b",
+   "revisadas": 0,
+   "ia": 9
+  },
+  "es_mx/twilightdelight.json": {
+   "hash": "7310c4945c31db9d",
+   "revisadas": 0,
+   "ia": 91
+  },
+  "es_mx/twilightforest.json": {
+   "hash": "058fddf86017c2f1",
+   "revisadas": 0,
+   "ia": 212
   },
   "es_mx/umbral_skies.json": {
-   "hash": "c634e4e6475c704f",
+   "hash": "7ada2494c4b7d19f",
+   "revisadas": 0,
+   "ia": 28
+  },
+  "es_mx/underlay.json": {
+   "hash": "1a8efdce78570e34",
+   "revisadas": 0,
+   "ia": 4
+  },
+  "es_mx/v_slab_compat.json": {
+   "hash": "4e645d6475fc0df7",
    "revisadas": 0,
    "ia": 1
   },
   "es_mx/vanillabackport.json": {
-   "hash": "ebb0669330d4e864",
+   "hash": "675b5c1426ae959a",
+   "revisadas": 0,
+   "ia": 583
+  },
+  "es_mx/veinmining.json": {
+   "hash": "bb697a9c63ba82b3",
+   "revisadas": 0,
+   "ia": 74
+  },
+  "es_mx/voidtotem.json": {
+   "hash": "3fe0bbf0981b7aec",
+   "revisadas": 0,
+   "ia": 15
+  },
+  "es_mx/wakes.json": {
+   "hash": "e5e1bec9eb3576d4",
+   "revisadas": 0,
+   "ia": 65
+  },
+  "es_mx/waystones.json": {
+   "hash": "63bbf0f3a6b08aa5",
+   "revisadas": 0,
+   "ia": 71
+  },
+  "es_mx/whatareyouvotingfor.json": {
+   "hash": "9084d34f4c9d8cb4",
+   "revisadas": 0,
+   "ia": 10
+  },
+  "es_mx/worldplaytime.json": {
+   "hash": "93bf36541a89027a",
+   "revisadas": 0,
+   "ia": 15
+  },
+  "es_mx/xaerobetterpvp.json": {
+   "hash": "a2ae4c4d6deb4a34",
+   "revisadas": 0,
+   "ia": 11
+  },
+  "es_mx/xaerolib.json": {
+   "hash": "d7a7bf6950077ead",
+   "revisadas": 0,
+   "ia": 36
+  },
+  "es_mx/xaerominimap.json": {
+   "hash": "f34166b47aacf309",
+   "revisadas": 0,
+   "ia": 462
+  },
+  "es_mx/xaeroplus.json": {
+   "hash": "04cdcf6b188471e3",
+   "revisadas": 0,
+   "ia": 1
+  },
+  "es_mx/xaeroworldmap.json": {
+   "hash": "9fd7a41f3b1da94e",
+   "revisadas": 0,
+   "ia": 314
+  },
+  "es_mx/xenon.json": {
+   "hash": "b9b541d004604147",
+   "revisadas": 0,
+   "ia": 1
+  },
+  "es_mx/yigd.json": {
+   "hash": "ba0809ddee5e74a1",
+   "revisadas": 0,
+   "ia": 27
+  },
+  "es_mx/yungscavebiomes.json": {
+   "hash": "16083c7749c27195",
+   "revisadas": 0,
+   "ia": 1
+  },
+  "es_mx/zeta.json": {
+   "hash": "5f387f6655847aa1",
    "revisadas": 0,
    "ia": 2
   }
